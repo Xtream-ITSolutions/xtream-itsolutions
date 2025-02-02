@@ -13,7 +13,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white) | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
 | ![Discord](https://img.shields.io/badge/Discord-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | [Tritt unserem Discord bei](https://discord.gg/xtream-itsolutions) |
 
-
 ---
 
 ## ✨ Unsere Projekte  
@@ -68,16 +67,18 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 |---------------|------------------|
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | Relationale Open-Source-Datenbank für Webanwendungen. |
 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | Open-Source-Relationaldatenbank, die MySQL kompatibel ist. |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%2300A858.svg?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL-Datenbank für flexible Datenspeicherung. |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL-Datenbank für schnelle, skalierbare Anwendungen. |
 
 ---
 
 ## 📊 GitHub Statistiken  
+![GitHub Status](https://img.shields.io/github/stars/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub Forks](https://img.shields.io/github/forks/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
+![GitHub Issues](https://img.shields.io/github/issues/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
 
-| **GitHub Statistiken**  |  |
-|-------------------------|--|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&count_private=true&hide_title=true&theme=blue) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtream-itsolutions&layout=compact&theme=blue) |
-| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=xtream-itsolutions&theme=blue) |  |
-| ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=xtream-itsolutions&bg_color=000000&color=ffffff&line=00A5E5&point=ffffff&area=true) |
-| ![Visitors](https://visitor-badge.glitch.me/badge?page_id=xtream-itsolutions.visitor-badge) |
+---
+
+## ⏱️ Wakatime Statistiken  
+![Wakatime](https://img.shields.io/badge/Wakatime-%23FF5722.svg?style=for-the-badge&logo=wakatime&logoColor=white)  
+[Wakatime Profil](https://wakatime.com/@xtream-itsolutions)
 
