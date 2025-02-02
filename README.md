@@ -82,5 +82,3 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![GitHub Stars](https://img.shields.io/github/stars/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) | ![GitHub Pull Requests](https://img.shields.io/github/pulls/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) |
 | ![GitHub Repositories](https://img.shields.io/badge/Repositories-%23F7C400?style=for-the-badge&logo=github&logoColor=white) | ![GitHub Commits](https://img.shields.io/badge/Commits-%23C3E88D?style=for-the-badge&logo=github&logoColor=white) |
 | ![Visitors](https://visitor-badge.glitch.me/badge?page_id=xtream-itsolutions.visitor-badge) | ![Contributors](https://img.shields.io/github/contributors/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) |
-
----
