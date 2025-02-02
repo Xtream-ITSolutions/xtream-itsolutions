@@ -90,7 +90,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 	<img src="https://wakatime.com/badge/user/XtreamITSolutions.svg" alt="Wakatime Badge" />
 </p>
 <p align="center">
-	<figure><embed src="https://wakatime.com/share/@XtreamITSolutions/5a310f77-d4d4-437d-af49-b7397d8ef591.svg"></embed></figure>
+	<embed src="https://wakatime.com/share/@XtreamITSolutions/5a310f77-d4d4-437d-af49-b7397d8ef591.svg"></embed>
 </p>
 
 ---
