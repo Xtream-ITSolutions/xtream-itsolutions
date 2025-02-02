@@ -6,19 +6,20 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ---
 
 ## 📌 Homepage  
-|  | **URL** |
-|-----------|---------|
-| **Homepage**  | [Xtream-ITSolutions Homepage](https://www.xtream-itsolutions.com) |
-| **Kunden Dashboard**  | [Kunden Dashboard](https://www.xtream-itsolutions.com/customer/dashboard) |
-| **Lizenzpanel**  | ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white) [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
-| **Discord**  | [Tritt unserem Discord bei](https://discord.gg/xtream-itsolutions) |
+|           | **Link**                                                                 |
+|----------------------|--------------------------------------------------------------------------|
+| ![Homepage](https://img.shields.io/badge/Homepage-%23FF9C0A.svg?style=for-the-badge&logo=internet-explorer&logoColor=white) | [Xtream-ITSolutions Homepage](https://www.xtream-itsolutions.com) |
+| ![Kunden Dashboard](https://img.shields.io/badge/Dashboard-%2321D1E0.svg?style=for-the-badge&logo=dashboard&logoColor=white) | [Kunden Dashboard](https://www.xtream-itsolutions.com/customer/dashboard) |
+| ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white) | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
+| ![Discord](https://img.shields.io/badge/Discord-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | [Tritt unserem Discord bei](https://discord.gg/xtream-itsolutions) |
+
 
 ---
 
 ## ✨ Unsere Projekte  
 | **Projekt**  | **Beschreibung**  | **Link** |
 |--------------|-------------------|----------|
-| **Lizenzpanel**  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
+| ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. |
 
 ---
 
