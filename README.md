@@ -5,27 +5,33 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 
 ---
 
+## 📌 Homepage  
+|-----------|---------|
+| **Homepage**  | [Xtream-ITSolutions Homepage](https://www.xtream-itsolutions.com) |
+| **Kunden Dashboard**  | [Kunden Dashboard](https://www.xtream-itsolutions.com/customer/dashboard) |
+| **Lizenzpanel**  | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
+| **Discord**  | [Tritt unserem Discord bei](https://discord.gg/xtream-itsolutions) |
+
+---
+
 ## ✨ Unsere Projekte  
-| **Projekt**  | **Beschreibung**  | **Link** |
 |--------------|-------------------|----------|
 | **Lizenzpanel**  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
 
 ---
 
 ## 💻 Unsere Services  
-| **Service** | **Beschreibung** |
-|-------------|------------------|
-| **Webhosting**  | Leistungsstarke Hosting-Lösungen für Websites und Anwendungen, ideal für kleine und große Unternehmen. | ![Webhosting](https://img.shields.io/badge/Hosting-%2300A5E5.svg?style=for-the-badge&logo=cloudflare&logoColor=white) |
-| **Serverhosting**  | Bereitstellung von dedizierten Servern für maximale Leistung und Kontrolle. | ![Serverhosting](https://img.shields.io/badge/ServerHosting-%23F7C400.svg?style=for-the-badge&logo=server&logoColor=white) |
-| **Discord Bots**  | Erstellung und Verwaltung von Discord-Bots für eine Vielzahl von Funktionen und Automatisierungen. | ![Discord](https://img.shields.io/badge/Discord%20Bots-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) |
-| **Teamspeak Server**  | Bereitstellung und Verwaltung von Teamspeak-Servern für Kommunikation in Echtzeit. | ![Teamspeak](https://img.shields.io/badge/Teamspeak-%2338B1E7.svg?style=for-the-badge&logo=teamspeak&logoColor=white) |
-| **IT-Beratung**  | Beratung bei der Auswahl und Implementierung der besten IT-Lösungen für Ihr Unternehmen. | ![Beratung](https://img.shields.io/badge/IT%20Consulting-%234A90E2.svg?style=for-the-badge&logo=consulting&logoColor=white) |
+|--|------------------|
+| ![Webhosting](https://img.shields.io/badge/Hosting-%2300A5E5.svg?style=for-the-badge&logo=cloudflare&logoColor=white) | Leistungsstarke Hosting-Lösungen für Websites und Anwendungen, ideal für kleine und große Unternehmen. |
+| ![Serverhosting](https://img.shields.io/badge/ServerHosting-%23F7C400.svg?style=for-the-badge&logo=server&logoColor=white) | Bereitstellung von dedizierten Servern für maximale Leistung und Kontrolle. |
+| ![Discord](https://img.shields.io/badge/Discord%20Bots-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | Erstellung und Verwaltung von Discord-Bots für eine Vielzahl von Funktionen und Automatisierungen. |
+| ![Teamspeak](https://img.shields.io/badge/Teamspeak-%2338B1E7.svg?style=for-the-badge&logo=teamspeak&logoColor=white) | Bereitstellung und Verwaltung von Teamspeak-Servern für Kommunikation in Echtzeit. |
+| ![Beratung](https://img.shields.io/badge/IT%20Consulting-%234A90E2.svg?style=for-the-badge&logo=consulting&logoColor=white) | Beratung bei der Auswahl und Implementierung der besten IT-Lösungen für Ihr Unternehmen. |
 
 ---
 
 ## 💻 Tech Stack  
-| **Technologie** | **Technologie** |
-|-----------------|-----------------|
+|------------------|------------------|
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/React-%23006161.svg?style=for-the-badge&logo=react&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
@@ -43,15 +49,11 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 
 ---
 
-## 📌 Nützliche Links  
-| **Link**  | **URL** |
-|-----------|---------|
-| **Homepage**  | [Xtream-ITSolutions Homepage](https://www.xtream-itsolutions.com) |
-| **Kunden Dashboard**  | [Kunden Dashboard](https://www.xtream-itsolutions.com/customer/dashboard) |
-| **Lizenzpanel**  | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
-| **Discord**  | [Tritt unserem Discord bei](https://discord.gg/xtream-itsolutions) |
-
----
-
 ## 📊 GitHub Statistiken  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&count_private=true&hide_title=true)
+
+|------------------------|--|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&count_private=true&hide_title=true&theme=blue) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtream-itsolutions&layout=compact&theme=blue) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xtream-itsolutions&theme=blue) | ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=xtream-itsolutions&theme=blue) |
+| ![GitHub Repositories](https://img.shields.io/badge/Repositories-%23F7C400?style=for-the-badge&logo=github&logoColor=white) | ![GitHub Issues](https://img.shields.io/badge/Issues-%23FF6F00?style=for-the-badge&logo=github&logoColor=white) |
+| ![GitHub Commits](https://img.shields.io/badge/Commits-%23C3E88D?style=for-the-badge&logo=github&logoColor=white) | ![GitHub Pull Requests](https://img.shields.io/badge/Pull%20Requests-%2300A5E5?style=for-the-badge&logo=github&logoColor=white) |
+| ![GitHub Stars](https://img.shields.io/badge/Stars-%23FFD700?style=for-the-badge&logo=github&logoColor=black) | ![GitHub Forks](https://img.shields.io/badge/Forks-%23FF69B4?style=for-the-badge&logo=github&logoColor=white) |
