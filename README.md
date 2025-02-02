@@ -76,9 +76,22 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ![GitHub Forks](https://img.shields.io/github/forks/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
 ![GitHub Issues](https://img.shields.io/github/issues/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
 
+### 🏆 GitHub Trophäen
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtream-itsolutions" alt="xtream-itsolutions" /></a> </p>
+
 ---
 
 ## ⏱️ Wakatime Statistiken  
 ![Wakatime](https://img.shields.io/badge/Wakatime-%23FF5722.svg?style=for-the-badge&logo=wakatime&logoColor=white)  
 [Wakatime Profil](https://wakatime.com/@xtream-itsolutions)
 
+---
+
+## 🏁 GitHub Aktivitätsgraph  
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&theme=dark" alt="xtream-itsolutions" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtream-itsolutions&layout=compact&theme=dark" alt="xtream-itsolutions" />
+</p>
+
+<br><br>
+<img alt="xtream-itsolutions Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=xtream-itsolutions&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
