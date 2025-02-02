@@ -22,7 +22,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Zum Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com)
 
 ---
-<p align="center">
 ## 💻 Unsere Services  
 | **Service** | **Beschreibung** |
 |-------------|------------------|
@@ -31,14 +30,13 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Discord](https://img.shields.io/badge/Discord%20Bots-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | Erstellung und Verwaltung von Discord-Bots für eine Vielzahl von Funktionen und Automatisierungen. |
 | ![Teamspeak](https://img.shields.io/badge/Teamspeak-%2338B1E7.svg?style=for-the-badge&logo=teamspeak&logoColor=white) | Bereitstellung und Verwaltung von Teamspeak-Servern für Kommunikation in Echtzeit. |
 | ![Beratung](https://img.shields.io/badge/IT%20Consulting-%234A90E2.svg?style=for-the-badge&logo=consulting&logoColor=white) | Beratung bei der Auswahl und Implementierung der besten IT-Lösungen für Ihr Unternehmen. |
-</p>
 
 ---
-<p align="center">
 ## 💻 Tech Stack  
 ### 📡 Server-Hosting
 | **Technologie** | **Beschreibung** |
 |-----------------|------------------|
+
 | ![Proxmox](https://img.shields.io/badge/Proxmox-%2361A2D1.svg?style=for-the-badge&logo=proxmox&logoColor=white) | Virtualisierungslösungen für Cloud-Infrastrukturen. |
 | ![Firewall](https://img.shields.io/badge/Firewall-%23F44336.svg?style=for-the-badge&logo=firewall&logoColor=white) | Sicherheit durch Firewalls und Schutzsysteme. |
 | ![Apache2](https://img.shields.io/badge/Apache2-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white) | Weit verbreiteter Webserver zur Bereitstellung von Websites. |
@@ -51,7 +49,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-%2377B5FE.svg?style=for-the-badge&logo=windows&logoColor=white) | Fernzugriff auf Server über das Remote Desktop-Protokoll. |
 </p>
 
-<p align="center">
 ### 🧑‍💻 Programmiersprachen
 | **Sprache**  | **Beschreibung** |
 |--------------|------------------|
@@ -65,9 +62,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D) | Progressive JavaScript-Bibliothek für Webschnittstellen. |
 | ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) | React-basierte Framework für serverseitiges Rendering und statische Websites. |
 | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Grundlegende Markup-Sprache für Webseiten. |
-</p>
 
-<p align="center">
 ### 🛢️ Datenbanken
 | **Datenbank** | **Beschreibung** |
 |---------------|------------------|
