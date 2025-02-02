@@ -47,7 +47,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) | Open-Source-Betriebssystem für leistungsstarke Serverlösungen. |
 | ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230077B5.svg?style=for-the-badge&logo=microsoft-windows&logoColor=white) | Microsoft Windows Server für Unternehmensanwendungen. |
 | ![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-%2377B5FE.svg?style=for-the-badge&logo=windows&logoColor=white) | Fernzugriff auf Server über das Remote Desktop-Protokoll. |
-</p>
 
 ### 🧑‍💻 Programmiersprachen
 | **Sprache**  | **Beschreibung** |
