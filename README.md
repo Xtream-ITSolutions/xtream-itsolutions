@@ -19,7 +19,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ## ✨ Unsere Projekte  
 | **Projekt**  | **Beschreibung**  | **Link** |
 |--------------|-------------------|----------|
-| ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. |
+| ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Zum Lizenzpane](https://lizenzpanel.xtream-itsolutions.com)
 
 ---
 
