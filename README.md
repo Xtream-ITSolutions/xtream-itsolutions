@@ -32,6 +32,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Beratung](https://img.shields.io/badge/IT%20Consulting-%234A90E2.svg?style=for-the-badge&logo=consulting&logoColor=white) | Beratung bei der Auswahl und Implementierung der besten IT-Lösungen für Ihr Unternehmen. |
 
 ---
+
 ## 💻 Tech Stack  
 ### 📡 Server-Hosting
 | **Technologie** | **Beschreibung** |
