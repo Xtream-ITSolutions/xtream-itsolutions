@@ -87,10 +87,10 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 
 ## ⏱️ Wakatime Statistiken  
 <p align="center">
-	<img src="https://wakatime.com/badge/user/xtream-itsolutions.svg" alt="Wakatime Badge" />
+	<img src="https://wakatime.com/badge/user/XtreamITSolutions.svg" alt="Wakatime Badge" />
 </p>
 <p align="center">
-	<img src="https://wakatime.com/share/@xtream-itsolutions/xyz1234abcd" alt="Wakatime Graph"/>
+	<img src="https://wakatime.com/share/@XtreamITSolutions/xyz1234abcd" alt="Wakatime Graph"/>
 </p>
 
 ---
