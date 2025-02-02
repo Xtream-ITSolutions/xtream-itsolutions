@@ -12,7 +12,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Kunden Dashboard](https://img.shields.io/badge/Dashboard-%2321D1E0.svg?style=for-the-badge&logo=dashboard&logoColor=white) | [Kunden Dashboard](https://www.xtream-itsolutions.com/customer/dashboard) |
 | ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white) | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
 | ![Discord](https://img.shields.io/badge/Discord-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | [Tritt unserem Discord bei](https://discord.gg/xtream-itsolutions) |
-![Wakatime](https://img.shields.io/badge/Wakatime-%23FF5722.svg?style=for-the-badge&logo=wakatime&logoColor=white) | (https://wakatime.com/@Xtream-ITSolutions)
+![Wakatime](https://img.shields.io/badge/Wakatime-%23FF5722.svg?style=for-the-badge&logo=wakatime&logoColor=white) | [Folge uns auf Wakatime](https://wakatime.com/@Xtream-ITSolutions)
 
 ---
 
@@ -73,16 +73,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ---
 
 ## 📊 GitHub Statistiken  
-![GitHub Status](https://img.shields.io/github/stars/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
-![GitHub Forks](https://img.shields.io/github/forks/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
-![GitHub Issues](https://img.shields.io/github/issues/xtream-itsolutions?style=for-the-badge&logo=github&logoColor=white)  
-
-### 🏆 GitHub Trophäen
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtream-itsolutions" alt="xtream-itsolutions" /></a> </p>
-
----
-
-## 🏁 GitHub Aktivitätsgraph  
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&theme=dark" alt="xtream-itsolutions" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtream-itsolutions&layout=compact&theme=dark" alt="xtream-itsolutions" />
@@ -90,3 +80,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 
 <br><br>
 <img alt="xtream-itsolutions Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=xtream-itsolutions&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+
+### 🏆 GitHub Trophäen
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtream-itsolutions" alt="xtream-itsolutions" /></a> </p>
