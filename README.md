@@ -22,7 +22,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Lizenzpanel](https://img.shields.io/badge/License%20Panel-%23FF9C0A.svg?style=for-the-badge&logo=tools&logoColor=white)  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Zum Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com)
 
 ---
-
+<p align="center">
 ## 💻 Unsere Services  
 | **Service** | **Beschreibung** |
 |-------------|------------------|
@@ -31,9 +31,10 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Discord](https://img.shields.io/badge/Discord%20Bots-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | Erstellung und Verwaltung von Discord-Bots für eine Vielzahl von Funktionen und Automatisierungen. |
 | ![Teamspeak](https://img.shields.io/badge/Teamspeak-%2338B1E7.svg?style=for-the-badge&logo=teamspeak&logoColor=white) | Bereitstellung und Verwaltung von Teamspeak-Servern für Kommunikation in Echtzeit. |
 | ![Beratung](https://img.shields.io/badge/IT%20Consulting-%234A90E2.svg?style=for-the-badge&logo=consulting&logoColor=white) | Beratung bei der Auswahl und Implementierung der besten IT-Lösungen für Ihr Unternehmen. |
+</p>
 
 ---
-
+<p align="center">
 ## 💻 Tech Stack  
 ### 📡 Server-Hosting
 | **Technologie** | **Beschreibung** |
@@ -48,7 +49,9 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) | Open-Source-Betriebssystem für leistungsstarke Serverlösungen. |
 | ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230077B5.svg?style=for-the-badge&logo=microsoft-windows&logoColor=white) | Microsoft Windows Server für Unternehmensanwendungen. |
 | ![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-%2377B5FE.svg?style=for-the-badge&logo=windows&logoColor=white) | Fernzugriff auf Server über das Remote Desktop-Protokoll. |
+</p>
 
+<p align="center">
 ### 🧑‍💻 Programmiersprachen
 | **Sprache**  | **Beschreibung** |
 |--------------|------------------|
@@ -62,13 +65,16 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D) | Progressive JavaScript-Bibliothek für Webschnittstellen. |
 | ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) | React-basierte Framework für serverseitiges Rendering und statische Websites. |
 | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Grundlegende Markup-Sprache für Webseiten. |
+</p>
 
+<p align="center">
 ### 🛢️ Datenbanken
 | **Datenbank** | **Beschreibung** |
 |---------------|------------------|
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | Relationale Open-Source-Datenbank für Webanwendungen. |
 | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | Open-Source-Relationaldatenbank, die MySQL kompatibel ist. |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL-Datenbank für schnelle, skalierbare Anwendungen. |
+</p>
 
 ---
 
@@ -79,7 +85,9 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 </p>
 
 <br><br>
+<p align="center">
 <img alt="xtream-itsolutions Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=xtream-itsolutions&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+</p>
 
 ### 🏆 GitHub Trophäen
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtream-itsolutions" alt="xtream-itsolutions" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtream-itsolutions" alt="xtream-itsolutions" /></a> </p>
