@@ -6,6 +6,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ---
 
 ## 📌 Homepage  
+|  | **URL** |
 |-----------|---------|
 | **Homepage**  | [Xtream-ITSolutions Homepage](https://www.xtream-itsolutions.com) |
 | **Kunden Dashboard**  | [Kunden Dashboard](https://www.xtream-itsolutions.com/customer/dashboard) |
@@ -15,13 +16,15 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ---
 
 ## ✨ Unsere Projekte  
+| **Projekt**  | **Beschreibung**  | **Link** |
 |--------------|-------------------|----------|
 | **Lizenzpanel**  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
 
 ---
 
 ## 💻 Unsere Services  
-|--|------------------|
+|  | **Beschreibung** |
+|----------|------------------|
 | ![Webhosting](https://img.shields.io/badge/Hosting-%2300A5E5.svg?style=for-the-badge&logo=cloudflare&logoColor=white) | Leistungsstarke Hosting-Lösungen für Websites und Anwendungen, ideal für kleine und große Unternehmen. |
 | ![Serverhosting](https://img.shields.io/badge/ServerHosting-%23F7C400.svg?style=for-the-badge&logo=server&logoColor=white) | Bereitstellung von dedizierten Servern für maximale Leistung und Kontrolle. |
 | ![Discord](https://img.shields.io/badge/Discord%20Bots-%2321D1E0.svg?style=for-the-badge&logo=discord&logoColor=white) | Erstellung und Verwaltung von Discord-Bots für eine Vielzahl von Funktionen und Automatisierungen. |
@@ -31,7 +34,8 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 ---
 
 ## 💻 Tech Stack  
-|------------------|------------------|
+|  |  |
+|-----------------|-----------------|
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/React-%23006161.svg?style=for-the-badge&logo=react&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
@@ -51,6 +55,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 
 ## 📊 GitHub Statistiken  
 
+| **GitHub Statistiken** |  |
 |------------------------|--|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&count_private=true&hide_title=true&theme=blue) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtream-itsolutions&layout=compact&theme=blue) |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xtream-itsolutions&theme=blue) | ![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=xtream-itsolutions&theme=blue) |
