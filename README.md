@@ -77,8 +77,7 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | **GitHub Statistiken**  |  |
 |-------------------------|--|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xtream-itsolutions&show_icons=true&count_private=true&hide_title=true&theme=blue) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xtream-itsolutions&layout=compact&theme=blue) |
-| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=xtream-itsolutions&theme=blue) | ![GitHub Followers](https://img.shields.io/github/followers/xtream-itsolutions?style=social) |
-| ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=xtream-itsolutions&bg_color=000000&color=ffffff&line=00A5E5&point=ffffff&area=true) | ![GitHub Issues](https://img.shields.io/github/issues/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) |
-| ![GitHub Stars](https://img.shields.io/github/stars/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) | ![GitHub Pull Requests](https://img.shields.io/github/pulls/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) |
-| ![GitHub Repositories](https://img.shields.io/badge/Repositories-%23F7C400?style=for-the-badge&logo=github&logoColor=white) | ![GitHub Commits](https://img.shields.io/badge/Commits-%23C3E88D?style=for-the-badge&logo=github&logoColor=white) |
-| ![Visitors](https://visitor-badge.glitch.me/badge?page_id=xtream-itsolutions.visitor-badge) | ![Contributors](https://img.shields.io/github/contributors/xtream-itsolutions?style=flat-square&logo=github&logoColor=white) |
+| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=xtream-itsolutions&theme=blue) |  |
+| ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=xtream-itsolutions&bg_color=000000&color=ffffff&line=00A5E5&point=ffffff&area=true) |
+| ![Visitors](https://visitor-badge.glitch.me/badge?page_id=xtream-itsolutions.visitor-badge) |
+
