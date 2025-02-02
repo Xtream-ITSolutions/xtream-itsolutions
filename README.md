@@ -9,8 +9,6 @@ Wir entwerfen, entwickeln und betreiben maßgeschneiderte IT-Infrastrukturen und
 | **Projekt**  | **Beschreibung**  | **Link** |
 |--------------|-------------------|----------|
 | **Lizenzpanel**  | Ein benutzerfreundliches Panel zur Verwaltung und Lizenzierung unserer IT-Dienstleistungen. | [Lizenzpanel](https://lizenzpanel.xtream-itsolutions.com) |
-| **ShowMyPlay**  | Ein Tool, um deine Spotify-Höraktivität öffentlich zu teilen. | [ShowMyPlay](https://showmyplay.frozd.dev) |
-| **TranslationEngine**  | Einfache Möglichkeit, Übersetzungen für HTML-Seiten basierend auf der Browsersprache des Nutzers hinzuzufügen. | [TranslationEngine](https://github.com/frozdbyte/translation-Engine) |
 
 ---
 
