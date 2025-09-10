@@ -100,10 +100,10 @@
 
 | Service | Link |
 |--------|------|
-| 💻 Hosting & Domains | [xtream-itsolutions.com/hosting](https://xtream-itsolutions.com/hosting) |
-| 🤖 Discord-Entwicklung | [xtream-itsolutions.com/discord](https://xtream-itsolutions.com/discord) |
-| 🖥️ Webentwicklung | [xtream-itsolutions.com/webentwicklung](https://xtream-itsolutions.com/webentwicklung) |
-| ⚙️ Server-Management | [xtream-itsolutions.com/servermanagement](https://xtream-itsolutions.com/servermanagement) |
+| 💻 Hosting & Domains | [xtream-itsolutions.com/produkte/plesk-webhosting](https://xtream-itsolutions.com/produkte/plesk-webhosting) |
+| 🤖 Discord-Entwicklung | [xtream-itsolutions.com/produkte/discord-bots](https://xtream-itsolutions.com/produkte/discord-bots) |
+| 🖥️ Webentwicklung | [xtream-itsolutions.com/produkte/software-entwicklung](https://xtream-itsolutions.com/produkte/software-entwicklung) |
+| ⚙️ Server-Management | [xtream-itsolutions.com/produkte/it-dienstleistungen](https://xtream-itsolutions.com/produkte/it-dienstleistungen) |
 
 ---
 
