@@ -1,125 +1,103 @@
-<h1 align="center">🚀 Xtream-ITSolutions UG (haftungsbeschränkt)</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/logo.png" alt="Xtream-ITSolutions Logo" width="200" />
+  
+  # 🚀 Xtream-ITSolutions UG
+  **Innovation trifft Performance – Deine Experten für moderne IT-Infrastruktur & Softwareentwicklung**
 
-<p align="center">
-  Willkommen beim offiziellen GitHub-Profil von <strong>Xtream-ITSolutions UG</strong> – deinem zuverlässigen Anbieter für moderne Hosting- & IT-Lösungen.
-</p>
-
-<p align="center">
-  <a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-Besuchen-0A66C2?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-Kontakt-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-</p>
-
----
-
-## 🌐 Über uns
-
-**Xtream-ITSolutions UG** kombiniert jahrelange Erfahrung mit innovativer Technologie, um individuelle IT-Dienstleistungen und digitale Lösungen für Unternehmen jeder Größe zu realisieren.
+  [![Website](https://img.shields.io/badge/Website-xtream--itsolutions.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xtream-itsolutions.com)
+  [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xtream-itsolutions)
+  [![E-Mail](https://img.shields.io/badge/E--Mail-Kontakt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:support@xtream-itsolutions.com)
+</div>
 
 ---
 
-## 🛠️ Leistungen im Überblick
-
-| Kategorie | Angebote |
-|----------|----------|
-| 🌍 **Hosting** | Webhosting, Domains, Server |
-| 💻 **Webentwicklung** | Frontend, Backend, CMS |
-| ☁️ **Cloud & SaaS** | Skalierbare Cloud-Services |
-| 🤖 **Discord Services** | Bots, Dashboards, Verifizierungen |
-| 🛡️ **IT-Security** | Penetration-Tests, Monitoring |
-| ⚙️ **Servermanagement** | Linux, Windows, Container |
-| 🔧 **DevOps & CI/CD** | Docker, Kubernetes, GitHub Actions |
-| 🎯 **Consulting** | Strategische IT-Beratung |
+### 🌟 Über uns
+**Xtream-ITSolutions** ist ein zukunftsorientiertes IT-Unternehmen mit Sitz in Deutschland. Wir spezialisieren uns auf hochverfügbares Hosting, maßgeschneiderte Softwarelösungen und umfassende IT-Beratung. Unser Ziel ist es, technologische Exzellenz mit höchster Zuverlässigkeit zu vereinen.
 
 ---
 
-## 💻 Unterstützte Technologien
+### 🛠️ Unsere Kernkompetenzen
 
-### 🧩 Frontend
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
-
-### 🧠 Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
-### 🗄️ Datenbanken
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-
-### ⚙️ DevOps & OS
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 Managed Hosting</h4>
+      <ul>
+        <li>Hochverfügbares Webhosting & Domains</li>
+        <li>Dedizierte Server & VPS Lösungen</li>
+        <li>Cloud-Infrastruktur (AWS, Hetzner, GCP)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Software Engineering</h4>
+      <ul>
+        <li>Moderne Web-Apps (React, Next.js, Vue)</li>
+        <li>Skalierbare Backends (Node.js, Laravel, Python)</li>
+        <li>Discord Bot & API Entwicklung</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Security & DevOps</h4>
+      <ul>
+        <li>CI/CD Automatisierung & Docker/K8s</li>
+        <li>IT-Security Audits & Pentesting</li>
+        <li>24/7 Monitoring & System-Hardening</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Consulting</h4>
+      <ul>
+        <li>Digitale Transformation</li>
+        <li>Infrastruktur-Optimierung</li>
+        <li>Projektmanagement & Strategie</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub-Statistiken & Trophäen
+### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xtream-ITSolutions&theme=algolia&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=blue&style=flat" />
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" /></a>
+  <br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java" /></a>
+  <br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite" /></a>
+  <br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,debian,githubactions,cloudflare" /></a>
 </p>
 
 ---
 
-## 🌐 Services & Links
+### 📊 GitHub Insights
 
-| Service | Link |
-|--------|------|
-| 💻 Hosting & Domains | [xtream-itsolutions.com/produkte/plesk-webhosting](https://xtream-itsolutions.com/produkte/plesk-webhosting) |
-| 🤖 Discord-Entwicklung | [xtream-itsolutions.com/produkte/discord-bots](https://xtream-itsolutions.com/produkte/discord-bots) |
-| 🖥️ Webentwicklung | [xtream-itsolutions.com/produkte/software-entwicklung](https://xtream-itsolutions.com/produkte/software-entwicklung) |
-| ⚙️ Server-Management | [xtream-itsolutions.com/produkte/it-dienstleistungen](https://xtream-itsolutions.com/produkte/it-dienstleistungen) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
----
-
-## 📞 Kontakt
-
-- 🌐 [Website besuchen](https://xtream-itsolutions.com)
-- 📧 [E-Mail senden](mailto:support@xtream-itsolutions.com)
-- 💬 [Discord Community](https://discord.gg/xtream-itsolutions)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## ⚖️ Rechtliches
+### 🤝 Lass uns zusammenarbeiten!
+Wir sind immer auf der Suche nach spannenden Projekten und Kooperationen.
 
-- [📜 Impressum](https://xtream-itsolutions.com/rechtliches/impressum)
-- [🔐 Datenschutz](https://xtream-itsolutions.com/rechtliches/datenschutz)
+- 🌐 **Website:** [xtream-itsolutions.com](https://xtream-itsolutions.com)
+- 💼 **Services:** [Unsere Dienstleistungen](https://xtream-itsolutions.com/produkte)
+- 💬 **Discord:** [Join our Community](https://discord.gg/xtream-itsolutions)
+- 📧 **Kontakt:** [support@xtream-itsolutions.com](mailto:support@xtream-itsolutions.com)
 
 ---
 
-> 🎯 **Lass uns dein nächstes Projekt gemeinsam realisieren – professionell, sicher & effizient.**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=blue&style=flat-square" alt="Profilbesuche" />
+  <br>
+  <sub>© 2024 Xtream-ITSolutions UG. Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz">Datenschutz</a></sub>
+</div>
