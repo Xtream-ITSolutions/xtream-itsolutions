@@ -8,9 +8,9 @@
 
   <br>
 
-  [![Website](https://img.shields.io/badge/Website-xtream--itsolutions.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xtream-itsolutions.com)
-  [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xtream-itsolutions)
-  [![E-Mail](https://img.shields.io/badge/E--Mail-Kontakt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:support@xtream-itsolutions.com)
+  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/Website-xtream--itsolutions.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/E--Mail-Kontakt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
 
   <br>
 
@@ -25,10 +25,10 @@
 
   ### 👨‍💻 Unser Team
 
-  **[SuchtiLive](https://suchtilive.com)**<br>
+  **<a href="https://suchtilive.com" target="_blank">SuchtiLive</a>**<br>
   *Geschäftsführer & Head Dev*<br>
-  [![Website](https://img.shields.io/badge/Website-suchtilive.com-282c34?style=flat-square&logo=google-chrome&logoColor=white)](https://suchtilive.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-SuchtiLive-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SuchtiLive)
+  <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-suchtilive.com-282c34?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-SuchtiLive-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
   ---
 
@@ -74,22 +74,22 @@
   <br>
 
   **Frontend & Design**<br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark" /></a>
   
   <br><br>
 
   **Backend & Programmiersprachen**<br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,c,cpp,cs,go,rust&theme=dark" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,c,cpp,cs,go,rust&theme=dark" /></a>
   
   <br><br>
 
   **Datenbanken**<br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&theme=dark" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&theme=dark" /></a>
   
   <br><br>
 
   **DevOps, Tools & OS**<br>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,debian,githubactions,cloudflare,git,bash&theme=dark" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,debian,githubactions,cloudflare,git,bash&theme=dark" /></a>
 
   <br>
 
@@ -97,25 +97,24 @@
 
   ### 📊 GitHub Insights
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </div>
 
   ---
 
   ### 🤝 Lass uns zusammenarbeiten!
   Wir sind immer auf der Suche nach spannenden Projekten und Kooperationen.
 
-  🌐 **Website:** [xtream-itsolutions.com](https://xtream-itsolutions.com) &nbsp; | &nbsp; 💼 **Services:** [Unsere Dienstleistungen](https://xtream-itsolutions.com/produkte) <br>
-  💬 **Discord:** [Join our Community](https://discord.gg/xtream-itsolutions) &nbsp; | &nbsp; 📧 **Kontakt:** [support@xtream-itsolutions.com](mailto:support@xtream-itsolutions.com)
+  🌐 **Website:** <a href="https://xtream-itsolutions.com" target="_blank">xtream-itsolutions.com</a> &nbsp; | &nbsp; 💼 **Services:** <a href="https://xtream-itsolutions.com/produkte" target="_blank">Unsere Dienstleistungen</a> <br>
+  💬 **Discord:** <a href="https://discord.gg/xtream-itsolutions" target="_blank">Join our Community</a> &nbsp; | &nbsp; 📧 **Kontakt:** <a href="mailto:support@xtream-itsolutions.com" target="_blank">support@xtream-itsolutions.com</a>
 
   ---
 
   <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=blue&style=flat-square" alt="Profilbesuche" />
   <br><br>
-  <sub>© 2024 Xtream-ITSolutions UG. Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz">Datenschutz</a></sub>
+  <sub>© 2024 Xtream-ITSolutions UG. Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
 
 </div>
