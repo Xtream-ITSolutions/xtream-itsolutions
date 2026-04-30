@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/xtream_logo.png" alt="Xtream-ITSolutions Logo" width="250" />
+  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/xtream_logo.png" alt="Xtream-ITSolutions UG (haftungsbeschränkt) Logo" width="250" />
   
   <br><br>
 
-  # 🚀 Xtream-ITSolutions UG
+  # 🚀 Xtream-ITSolutions UG (haftungsbeschränkt)
   **Innovation trifft Performance – Deine Experten für moderne IT-Infrastruktur & Softwareentwicklung**
 
   <br>
@@ -17,7 +17,7 @@
   ---
 
   ### 🌟 Über uns
-  **Xtream-ITSolutions** ist ein zukunftsorientiertes IT-Unternehmen mit Sitz in Deutschland.<br>
+  **Xtream-ITSolutions UG (haftungsbeschränkt)** ist ein zukunftsorientiertes IT-Unternehmen mit Sitz in Deutschland.<br>
   Wir spezialisieren uns auf hochverfügbares Hosting, maßgeschneiderte Softwarelösungen und umfassende IT-Beratung.<br>
   Unser Ziel ist es, technologische Exzellenz mit höchster Zuverlässigkeit zu vereinen.
 
@@ -115,6 +115,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=blue&style=flat-square" alt="Profilbesuche" />
   <br><br>
-  <sub>© 2024 Xtream-ITSolutions UG. Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
+  <sub>© 2024 Xtream-ITSolutions UG (haftungsbeschränkt). Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
 
 </div>
