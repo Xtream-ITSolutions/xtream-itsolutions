@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/logo.png" alt="Xtream-ITSolutions Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/xtream_logo.png" alt="Xtream-ITSolutions Logo" width="200" />
   
   # 🚀 Xtream-ITSolutions UG
   **Innovation trifft Performance – Deine Experten für moderne IT-Infrastruktur & Softwareentwicklung**
