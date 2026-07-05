@@ -4,7 +4,8 @@
   <br><br>
 
   # 🚀 Xtream-ITSolutions UG (haftungsbeschränkt)
-  **Innovation trifft Performance – Deine Experten für moderne IT-Infrastruktur & Softwareentwicklung**
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Innovation+trifft+Performance;Experten+f%C3%BCr+IT-Infrastruktur;Moderne+Softwareentwicklung;Hochverf%C3%BCgbares+Hosting+%26+Cloud;Security+%26+DevOps+aus+Deutschland)](https://git.io/typing-svg)
 
   <br>
 
@@ -95,13 +96,23 @@
 
   ---
 
+  ### 🏆 GitHub Trophies
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Xtream-ITSolutions&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+
+  ---
+
   ### 📊 GitHub Insights
 
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  ---
+
+  ### 📈 Contribution Activity
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtream-ITSolutions&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
   ---
 
@@ -115,6 +126,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=blue&style=flat-square" alt="Profilbesuche" />
   <br><br>
-  <sub>© 2024 Xtream-ITSolutions UG (haftungsbeschränkt). Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
+  <sub>© 2026 Xtream-ITSolutions UG (haftungsbeschränkt). Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
 
 </div>
