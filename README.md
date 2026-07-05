@@ -1,26 +1,40 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/xtream_logo.png" alt="Xtream-ITSolutions UG (haftungsbeschränkt) Logo" width="250" />
-  
-  <br><br>
 
-  # 🚀 Xtream-ITSolutions UG (haftungsbeschränkt)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:5865F2&height=200&section=header&text=Xtream-ITSolutions&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Innovation%20trifft%20Performance&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Innovation+trifft+Performance;Experten+f%C3%BCr+IT-Infrastruktur;Moderne+Softwareentwicklung;Hochverf%C3%BCgbares+Hosting+%26+Cloud;Security+%26+DevOps+aus+Deutschland)](https://git.io/typing-svg)
+  <img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/xtream_logo.png" alt="Xtream-ITSolutions UG (haftungsbeschränkt) Logo" width="200" />
+
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=620&lines=Innovation+trifft+Performance;Experten+f%C3%BCr+IT-Infrastruktur;Moderne+Softwareentwicklung;Hochverf%C3%BCgbares+Hosting+%26+Cloud;Security+%26+DevOps+aus+Deutschland)](https://git.io/typing-svg)
 
   <br>
 
   <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/Website-xtream--itsolutions.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/E--Mail-Kontakt-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" /></a>
 
-  <br>
+  <br><br>
 
   ---
 
   ### 🌟 Über uns
+
   **Xtream-ITSolutions UG (haftungsbeschränkt)** ist ein zukunftsorientiertes IT-Unternehmen mit Sitz in Deutschland.<br>
   Wir spezialisieren uns auf hochverfügbares Hosting, maßgeschneiderte Softwarelösungen und umfassende IT-Beratung.<br>
   Unser Ziel ist es, technologische Exzellenz mit höchster Zuverlässigkeit zu vereinen.
+
+  <br>
+
+  <table align="center">
+    <tr>
+      <td align="center"><b>🏢 Gegründet</b><br>2022</td>
+      <td align="center"><b>🌍 Standort</b><br>Deutschland</td>
+      <td align="center"><b>⚡ Verfügbarkeit</b><br>24/7 Support</td>
+      <td align="center"><b>🔒 Sicherheit</b><br>ISO-konform</td>
+    </tr>
+  </table>
 
   ---
 
@@ -75,22 +89,22 @@
   <br>
 
   **Frontend & Design**<br>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark" /></a>
-  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark" />
+
   <br><br>
 
   **Backend & Programmiersprachen**<br>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,c,cpp,cs,go,rust&theme=dark" /></a>
-  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,c,cpp,cs,go,rust&theme=dark" />
+
   <br><br>
 
   **Datenbanken**<br>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&theme=dark" /></a>
-  
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&theme=dark" />
+
   <br><br>
 
   **DevOps, Tools & OS**<br>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,debian,githubactions,cloudflare,git,bash&theme=dark" /></a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,debian,githubactions,cloudflare,git,bash&theme=dark" />
 
   <br>
 
@@ -98,7 +112,7 @@
 
   ### 📊 GitHub Insights
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
@@ -112,16 +126,32 @@
 
   ---
 
-  ### 🤝 Lass uns zusammenarbeiten!
-  Wir sind immer auf der Suche nach spannenden Projekten und Kooperationen.
+  ### 🐍 Contribution Snake
 
-  🌐 **Website:** <a href="https://xtream-itsolutions.com" target="_blank">xtream-itsolutions.com</a> &nbsp; | &nbsp; 💼 **Services:** <a href="https://xtream-itsolutions.com/produkte" target="_blank">Unsere Dienstleistungen</a> <br>
-  💬 **Discord:** <a href="https://discord.gg/xtream-itsolutions" target="_blank">Join our Community</a> &nbsp; | &nbsp; 📧 **Kontakt:** <a href="mailto:support@xtream-itsolutions.com" target="_blank">support@xtream-itsolutions.com</a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake.svg" />
+  </picture>
 
   ---
 
-  <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=blue&style=flat-square" alt="Profilbesuche" />
-  <br><br>
+  ### 🤝 Lass uns zusammenarbeiten!
+
+  Wir sind immer auf der Suche nach spannenden Projekten und Kooperationen.<br>
+  Ob Startup, Unternehmen oder Einzelperson – wir finden die passende Lösung für dich.
+
+  <br>
+
+  🌐 **Website:** <a href="https://xtream-itsolutions.com" target="_blank">xtream-itsolutions.com</a> &nbsp;|&nbsp; 💼 **Services:** <a href="https://xtream-itsolutions.com/produkte" target="_blank">Unsere Dienstleistungen</a><br>
+  💬 **Discord:** <a href="https://discord.gg/xtream-itsolutions" target="_blank">Join our Community</a> &nbsp;|&nbsp; 📧 **Kontakt:** <a href="mailto:support@xtream-itsolutions.com" target="_blank">support@xtream-itsolutions.com</a>
+
+  ---
+
+  <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=0A66C2&style=flat-square" alt="Profilbesuche" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:0A66C2&height=100&section=footer" width="100%" alt="Footer" />
+
   <sub>© 2026 Xtream-ITSolutions UG (haftungsbeschränkt). Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
 
 </div>
