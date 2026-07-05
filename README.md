@@ -290,9 +290,13 @@
 
   ### 📊 GitHub Insights
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&icon_color=33C8FF&title_color=33C8FF&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xtream-ITSolutions&theme=tokyonight" alt="Profile Details" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true&title_color=33C8FF&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xtream-ITSolutions&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xtream-ITSolutions&theme=tokyonight" alt="Most Commit Language" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xtream-ITSolutions&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xtream-ITSolutions&theme=tokyonight&utcOffset=1" alt="Productive Time" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true&ring=33C8FF&fire=33C8FF&currStreakLabel=33C8FF&sideLabels=33C8FF" alt="GitHub Streak" />
 
