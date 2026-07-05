@@ -96,16 +96,12 @@
 
   ---
 
-  ### 🏆 GitHub Trophies
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Xtream-ITSolutions&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-
-  ---
-
   ### 📊 GitHub Insights
 
   <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   ---
