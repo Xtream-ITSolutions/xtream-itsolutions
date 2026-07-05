@@ -12,13 +12,12 @@
 
   <br>
 
-  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Website-xtream--itsolutions.com-07132E?style=for-the-badge&logoColor=33C8FF" /></a>
+  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-xtream--itsolutions.com-07132E?style=for-the-badge" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧%20E--Mail-support%40xtream--itsolutions.com-07132E?style=for-the-badge" /></a>
+  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_E--Mail-support%40xtream--itsolutions.com-07132E?style=for-the-badge" /></a>
   <br>
   <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=GitHub+Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" /></a>
-  <img src="https://img.shields.io/github/stars/Xtream-ITSolutions?affiliations=OWNER%2CCOLLABORATOR&label=GitHub+Stars&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-00C851?style=for-the-badge&logo=statuspage&logoColor=white" />
 
   <br><br>
 
@@ -34,12 +33,12 @@
 
   <table align="center">
     <tr>
-      <td align="center" width="120"><b>🏢 Gegründet</b><br><br>2024</td>
-      <td align="center" width="120"><b>🌍 Standort</b><br><br>Deutschland</td>
-      <td align="center" width="120"><b>⚡ Verfügbarkeit</b><br><br>24/7 Support</td>
-      <td align="center" width="120"><b>🔒 Sicherheit</b><br><br>ISO-konform</td>
-      <td align="center" width="120"><b>🚀 Projekte</b><br><br>10+ erfolgreich</td>
-      <td align="center" width="120"><b>🌐 Sprachen</b><br><br>DE &amp; EN</td>
+      <td align="center" width="110"><b>🏢 Gegründet</b><br><br>2024</td>
+      <td align="center" width="110"><b>🌍 Standort</b><br><br>Deutschland</td>
+      <td align="center" width="110"><b>⚡ Verfügbarkeit</b><br><br>24/7 Support</td>
+      <td align="center" width="110"><b>🔒 Sicherheit</b><br><br>ISO-konform</td>
+      <td align="center" width="110"><b>🚀 Projekte</b><br><br>10+ erfolgreich</td>
+      <td align="center" width="110"><b>🌐 Sprachen</b><br><br>DE &amp; EN</td>
     </tr>
   </table>
 
@@ -112,7 +111,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github.com/SuchtiLive.png?size=120" width="100" style="border-radius:50%" /><br><br>
+        <img src="https://github.com/SuchtiLive.png?size=120" width="100" /><br><br>
         <b><a href="https://suchtilive.com" target="_blank">SuchtiLive</a></b><br>
         <i>Geschäftsführer &amp; Head Dev</i><br><br>
         <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-07132E?style=flat-square&logo=google-chrome&logoColor=33C8FF" /></a>
@@ -127,11 +126,11 @@
 
   <br>
 
-  ![](https://img.shields.io/badge/Next.js%2015-Aktiv%20in%20Entwicklung-07132E?style=flat-square&logo=next.js&logoColor=33C8FF&labelColor=0A1F4A)
-  ![](https://img.shields.io/badge/Kubernetes-Infrastruktur%20Ausbau-07132E?style=flat-square&logo=kubernetes&logoColor=33C8FF&labelColor=0A1F4A)
-  ![](https://img.shields.io/badge/TypeScript-Schwerpunkt%202026-07132E?style=flat-square&logo=typescript&logoColor=33C8FF&labelColor=0A1F4A)
-  ![](https://img.shields.io/badge/AI%20Integration-In%20Planung-07132E?style=flat-square&logo=openai&logoColor=33C8FF&labelColor=0A1F4A)
-  ![](https://img.shields.io/badge/Discord%20Bots-Neue%20Features-07132E?style=flat-square&logo=discord&logoColor=33C8FF&labelColor=0A1F4A)
+  ![](https://img.shields.io/badge/Next.js%2015-Aktiv%20in%20Entwicklung-0A1F4A?style=flat-square&logo=next.js&logoColor=33C8FF)
+  ![](https://img.shields.io/badge/Kubernetes-Infrastruktur%20Ausbau-0A1F4A?style=flat-square&logo=kubernetes&logoColor=33C8FF)
+  ![](https://img.shields.io/badge/TypeScript-Schwerpunkt%202026-0A1F4A?style=flat-square&logo=typescript&logoColor=33C8FF)
+  ![](https://img.shields.io/badge/AI%20Integration-In%20Planung-0A1F4A?style=flat-square&logo=openai&logoColor=33C8FF)
+  ![](https://img.shields.io/badge/Discord%20Bots-Neue%20Features-0A1F4A?style=flat-square&logo=discord&logoColor=33C8FF)
 
   ---
 
@@ -197,7 +196,7 @@
         <td>Docker, K8s, GitHub Actions</td>
       </tr>
       <tr>
-        <td><b>Uptime</b></td>
+        <td><b>Uptime / SLA</b></td>
         <td>99,9 % garantiert</td>
         <td>–</td>
         <td>24/7 Monitoring</td>
@@ -209,7 +208,7 @@
         <td>Reaktionszeit &lt; 4h</td>
       </tr>
       <tr>
-        <td><b>Mehr</b></td>
+        <td><b>Mehr Infos</b></td>
         <td><a href="https://xtream-itsolutions.com/produkte" target="_blank">→ Hosting-Produkte</a></td>
         <td><a href="https://xtream-itsolutions.com/produkte" target="_blank">→ Dev-Pakete</a></td>
         <td><a href="https://xtream-itsolutions.com/produkte" target="_blank">→ Security-Services</a></td>
@@ -219,11 +218,39 @@
 
   ---
 
+  ### 🗺️ Roadmap 2026
+
+  | Status | Meilenstein |
+  |:------:|-------------|
+  | ✅ | Neue Homepage Launch |
+  | ✅ | xithead Open Source Release |
+  | ✅ | GitHub Profil Relaunch |
+  | 🔄 | Kubernetes-Cluster Expansion |
+  | 🔄 | Discord Community Bot v2 |
+  | 📅 | AI-gestützte Support-Tools |
+  | 📅 | Erweiterte API-Dokumentation |
+  | 📅 | Kundendashboard (Self-Service) |
+
+  <sub>✅ Abgeschlossen &nbsp;·&nbsp; 🔄 In Arbeit &nbsp;·&nbsp; 📅 Geplant</sub>
+
+  ---
+
   ### 🚀 Open Source
 
-  <a href="https://github.com/Xtream-ITSolutions/xithead" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xtream-ITSolutions&repo=xithead&theme=tokyonight&hide_border=true&title_color=33C8FF&icon_color=33C8FF&cache_seconds=86400" alt="xithead" />
-  </a>
+  <table align="center" width="60%">
+    <tr>
+      <td valign="top">
+        <b>🐍 <a href="https://github.com/Xtream-ITSolutions/xithead" target="_blank">xithead</a></b>
+        &nbsp;<img src="https://img.shields.io/github/languages/top/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=07132E" />
+        <br><br>
+        Open Source Projekt von Xtream-ITSolutions<br><br>
+        <img src="https://img.shields.io/github/stars/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Stars" />
+        <img src="https://img.shields.io/github/forks/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Forks" />
+        <img src="https://img.shields.io/github/last-commit/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Letzter+Commit" />
+        <img src="https://img.shields.io/github/issues/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Issues" />
+      </td>
+    </tr>
+  </table>
 
   ---
 
@@ -263,19 +290,10 @@
 
   ### 📊 GitHub Insights
 
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&icon_color=33C8FF&title_color=33C8FF&cache_seconds=86400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true&title_color=33C8FF&cache_seconds=86400" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Xtream-ITSolutions&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&icon_color=33C8FF&title_color=33C8FF&cache_seconds=86400" alt="GitHub Stats" />
   <br>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtream-ITSolutions&layout=compact&theme=tokyonight&hide_border=true&title_color=33C8FF&cache_seconds=86400" alt="Top Languages" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true&ring=33C8FF&fire=33C8FF&currStreakLabel=33C8FF&sideLabels=33C8FF" alt="GitHub Streak" />
 
   ---
@@ -320,10 +338,10 @@
 
   <br>
 
-  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Zur%20Website-07132E?style=for-the-badge" /></a>
-  <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼%20Unsere%20Services-0A1F4A?style=for-the-badge" /></a>
-  <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬%20Discord%20beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧%20Kontakt%20aufnehmen-07132E?style=for-the-badge" /></a>
+  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Zur_Website-07132E?style=for-the-badge" /></a>
+  <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-0A1F4A?style=for-the-badge" /></a>
+  <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬_Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_Kontakt_aufnehmen-07132E?style=for-the-badge" /></a>
 
   ---
 
@@ -333,6 +351,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A8FA8,50:0A1F4A,100:07132E&height=120&section=footer" width="100%" alt="Footer" />
 
-  <sub>© 2026 Xtream-ITSolutions UG (haftungsbeschränkt). Alle Rechte vorbehalten. | <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> | <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
+  <sub>© 2024–2026 Xtream-ITSolutions UG (haftungsbeschränkt) &nbsp;|&nbsp; Entwickelt mit ❤️ &nbsp;|&nbsp; Alle Rechte vorbehalten. &nbsp;|&nbsp; <a href="https://xtream-itsolutions.com/rechtliches/impressum" target="_blank">Impressum</a> &nbsp;|&nbsp; <a href="https://xtream-itsolutions.com/rechtliches/datenschutz" target="_blank">Datenschutz</a></sub>
 
 </div>
