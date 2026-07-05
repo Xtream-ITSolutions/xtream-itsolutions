@@ -18,6 +18,7 @@
   <br>
   <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=GitHub+Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" /></a>
   <img src="https://img.shields.io/github/stars/Xtream-ITSolutions?affiliations=OWNER%2CCOLLABORATOR&label=GitHub+Stars&style=for-the-badge&logo=github&logoColor=white&color=181717" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
   <br><br>
 
@@ -33,11 +34,37 @@
 
   <table align="center">
     <tr>
-      <td align="center" width="130"><b>🏢 Gegründet</b><br><br>2024</td>
-      <td align="center" width="130"><b>🌍 Standort</b><br><br>Deutschland</td>
-      <td align="center" width="130"><b>⚡ Verfügbarkeit</b><br><br>24/7 Support</td>
-      <td align="center" width="130"><b>🔒 Sicherheit</b><br><br>ISO-konform</td>
-      <td align="center" width="130"><b>🚀 Projekte</b><br><br>10+ erfolgreich</td>
+      <td align="center" width="120"><b>🏢 Gegründet</b><br><br>2024</td>
+      <td align="center" width="120"><b>🌍 Standort</b><br><br>Deutschland</td>
+      <td align="center" width="120"><b>⚡ Verfügbarkeit</b><br><br>24/7 Support</td>
+      <td align="center" width="120"><b>🔒 Sicherheit</b><br><br>ISO-konform</td>
+      <td align="center" width="120"><b>🚀 Projekte</b><br><br>10+ erfolgreich</td>
+      <td align="center" width="120"><b>🌐 Sprachen</b><br><br>DE &amp; EN</td>
+    </tr>
+  </table>
+
+  ---
+
+  ### 💡 Unsere Werte
+
+  <table align="center" width="85%">
+    <tr>
+      <td align="center" width="25%" valign="top">
+        <h4>🎯 Qualität</h4>
+        Wir liefern keine halbfertigen Lösungen. Jedes Projekt wird mit höchstem Anspruch umgesetzt.
+      </td>
+      <td align="center" width="25%" valign="top">
+        <h4>🤝 Verlässlichkeit</h4>
+        Termine und Zusagen halten wir ein. Transparente Kommunikation ist unser Standard.
+      </td>
+      <td align="center" width="25%" valign="top">
+        <h4>🔬 Innovation</h4>
+        Wir setzen auf moderne, zukunftssichere Technologien – immer am Puls der Zeit.
+      </td>
+      <td align="center" width="25%" valign="top">
+        <h4>🔐 Vertrauen</h4>
+        Deine Daten sind sicher. DSGVO, ISO-Standards und Transparenz sind keine Floskeln.
+      </td>
     </tr>
   </table>
 
@@ -80,10 +107,31 @@
 
   ### 👨‍💻 Unser Team
 
-  **<a href="https://suchtilive.com" target="_blank">SuchtiLive</a>**<br>
-  *Geschäftsführer & Head Dev*<br>
-  <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-suchtilive.com-07132E?style=flat-square&logo=google-chrome&logoColor=33C8FF" /></a>
-  <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-SuchtiLive-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <br>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/SuchtiLive.png?size=120" width="100" style="border-radius:50%" /><br><br>
+        <b><a href="https://suchtilive.com" target="_blank">SuchtiLive</a></b><br>
+        <i>Geschäftsführer &amp; Head Dev</i><br><br>
+        <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-07132E?style=flat-square&logo=google-chrome&logoColor=33C8FF" /></a>
+        <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ### 🔥 Aktuell im Fokus
+
+  <br>
+
+  ![](https://img.shields.io/badge/Next.js%2015-Aktiv%20in%20Entwicklung-07132E?style=flat-square&logo=next.js&logoColor=33C8FF&labelColor=0A1F4A)
+  ![](https://img.shields.io/badge/Kubernetes-Infrastruktur%20Ausbau-07132E?style=flat-square&logo=kubernetes&logoColor=33C8FF&labelColor=0A1F4A)
+  ![](https://img.shields.io/badge/TypeScript-Schwerpunkt%202026-07132E?style=flat-square&logo=typescript&logoColor=33C8FF&labelColor=0A1F4A)
+  ![](https://img.shields.io/badge/AI%20Integration-In%20Planung-07132E?style=flat-square&logo=openai&logoColor=33C8FF&labelColor=0A1F4A)
+  ![](https://img.shields.io/badge/Discord%20Bots-Neue%20Features-07132E?style=flat-square&logo=discord&logoColor=33C8FF&labelColor=0A1F4A)
 
   ---
 
@@ -94,20 +142,20 @@
       <td align="center" width="25%" valign="top">
         <h4>🌍 Managed Hosting</h4>
         Hochverfügbares Webhosting<br>
-        Dedizierte Server & VPS<br>
+        Dedizierte Server &amp; VPS<br>
         Cloud (AWS, Hetzner, GCP)<br>
-        Domains & SSL
+        Domains &amp; SSL
       </td>
       <td align="center" width="25%" valign="top">
         <h4>💻 Software Engineering</h4>
         Web-Apps (React, Next.js)<br>
         Backends (Node.js, Laravel)<br>
-        Discord Bots & APIs<br>
+        Discord Bots &amp; APIs<br>
         Mobile Apps
       </td>
       <td align="center" width="25%" valign="top">
-        <h4>🛡️ Security & DevOps</h4>
-        CI/CD & Docker/K8s<br>
+        <h4>🛡️ Security &amp; DevOps</h4>
+        CI/CD &amp; Docker/K8s<br>
         IT-Security Audits<br>
         24/7 Monitoring<br>
         System-Hardening
@@ -124,6 +172,53 @@
 
   ---
 
+  ### 💼 Services im Überblick
+
+  <table align="center" width="85%">
+    <thead>
+      <tr>
+        <th></th>
+        <th>🟢 Hosting</th>
+        <th>💻 Development</th>
+        <th>🛡️ Security</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Leistungen</b></td>
+        <td>Webhosting, VPS, Dedicated</td>
+        <td>Web-Apps, Bots, APIs</td>
+        <td>Audits, Pentesting, DevOps</td>
+      </tr>
+      <tr>
+        <td><b>Technologien</b></td>
+        <td>Hetzner, AWS, Cloudflare</td>
+        <td>Next.js, Node.js, Laravel</td>
+        <td>Docker, K8s, GitHub Actions</td>
+      </tr>
+      <tr>
+        <td><b>Uptime</b></td>
+        <td>99,9 % garantiert</td>
+        <td>–</td>
+        <td>24/7 Monitoring</td>
+      </tr>
+      <tr>
+        <td><b>Support</b></td>
+        <td>24/7 Discord &amp; E-Mail</td>
+        <td>Projektbegleitend</td>
+        <td>Reaktionszeit &lt; 4h</td>
+      </tr>
+      <tr>
+        <td><b>Mehr</b></td>
+        <td><a href="https://xtream-itsolutions.com/produkte" target="_blank">→ Hosting-Produkte</a></td>
+        <td><a href="https://xtream-itsolutions.com/produkte" target="_blank">→ Dev-Pakete</a></td>
+        <td><a href="https://xtream-itsolutions.com/produkte" target="_blank">→ Security-Services</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+  ---
+
   ### 🚀 Open Source
 
   <a href="https://github.com/Xtream-ITSolutions/xithead" target="_blank">
@@ -132,25 +227,35 @@
 
   ---
 
-  ### 💻 Tech Stack & Programmiersprachen
+  ### 💻 Tech Stack
 
-  **Frontend & Design**<br>
+  <details>
+  <summary><b>🖥️ Frontend & Design</b></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark" />
-
   <br><br>
+  </details>
 
-  **Backend & Programmiersprachen**<br>
+  <details>
+  <summary><b>⚙️ Backend & Programmiersprachen</b></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,java,c,cpp,cs,go,rust&theme=dark" />
-
   <br><br>
+  </details>
 
-  **Datenbanken**<br>
+  <details>
+  <summary><b>🗄️ Datenbanken</b></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&theme=dark" />
-
   <br><br>
+  </details>
 
-  **DevOps, Tools & OS**<br>
+  <details>
+  <summary><b>🔧 DevOps, Tools & OS</b></summary>
+  <br>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,debian,githubactions,cloudflare,git,bash&theme=dark" />
+  <br><br>
+  </details>
 
   <br>
 
@@ -191,14 +296,31 @@
 
   ---
 
-  ### 🤝 Lass uns zusammenarbeiten!
+  ### 📬 Kontakt & Support
 
-  Wir sind immer auf der Suche nach spannenden Projekten und Kooperationen.<br>
-  Ob Startup, Unternehmen oder Einzelperson – wir finden die passende Lösung für dich.
+  <table align="center" width="70%">
+    <tr>
+      <td align="center" width="33%">
+        <b>💬 Discord</b><br><br>
+        Schnellste Antwortzeit<br>
+        <a href="https://discord.gg/xtream-itsolutions" target="_blank">Server beitreten →</a>
+      </td>
+      <td align="center" width="33%">
+        <b>📧 E-Mail</b><br><br>
+        Reaktionszeit &lt; 24h<br>
+        <a href="mailto:support@xtream-itsolutions.com" target="_blank">support@xtream-itsolutions.com</a>
+      </td>
+      <td align="center" width="33%">
+        <b>🌐 Website</b><br><br>
+        Alle Infos &amp; Produkte<br>
+        <a href="https://xtream-itsolutions.com" target="_blank">xtream-itsolutions.com →</a>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
-  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Zur%20Website-07132E?style=for-the-badge&logoColor=33C8FF" /></a>
+  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐%20Zur%20Website-07132E?style=for-the-badge" /></a>
   <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼%20Unsere%20Services-0A1F4A?style=for-the-badge" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬%20Discord%20beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧%20Kontakt%20aufnehmen-07132E?style=for-the-badge" /></a>
