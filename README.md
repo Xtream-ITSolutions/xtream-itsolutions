@@ -223,7 +223,7 @@
   | Status | Meilenstein |
   |:------:|-------------|
   | ✅ | Neue Homepage Launch |
-  | ✅ | xithead Open Source Release |
+  | ✅ | Xtream-Head Launch (xtream-head.com) |
   | ✅ | GitHub Profil Relaunch |
   | 🔄 | Kubernetes-Cluster Expansion |
   | 🔄 | Discord Community Bot v2 |
@@ -235,19 +235,17 @@
 
   ---
 
-  ### 🚀 Open Source
+  ### 🚀 Unser Produkt
 
   <table align="center" width="60%">
     <tr>
-      <td valign="top">
-        <b>🐍 <a href="https://github.com/Xtream-ITSolutions/xithead" target="_blank">xithead</a></b>
-        &nbsp;<img src="https://img.shields.io/github/languages/top/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=07132E" />
+      <td align="center" valign="top">
+        <h4>🤖 Xtream-Head</h4>
+        KI-gestützte Lösung von Xtream-ITSolutions<br><br>
+        <a href="https://xtream-head.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-xtream--head.com-07132E?style=for-the-badge" /></a>
         <br><br>
-        Open Source Projekt von Xtream-ITSolutions<br><br>
-        <img src="https://img.shields.io/github/stars/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Stars" />
-        <img src="https://img.shields.io/github/forks/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Forks" />
-        <img src="https://img.shields.io/github/last-commit/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Letzter+Commit" />
-        <img src="https://img.shields.io/github/issues/Xtream-ITSolutions/xithead?style=flat-square&color=33C8FF&labelColor=0A1F4A&label=Issues" />
+        <img src="https://img.shields.io/badge/Status-Live-00C851?style=flat-square&logo=statuspage&logoColor=white" />
+        <img src="https://img.shields.io/badge/Made%20by-Xtream--ITSolutions-0A1F4A?style=flat-square&logoColor=33C8FF" />
       </td>
     </tr>
   </table>
