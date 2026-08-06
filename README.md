@@ -19,7 +19,7 @@
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_E--Mail-support%40xtream--itsolutions.com-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <br>
-  <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=GitHub+Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0a1120" /></a>
+  <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=GitHub+Followers&style=for-the-badge&logo=github&logoColor=white&color=060c16&labelColor=0a1120" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-22D3EE?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a1120" />
 
   <br><br>
@@ -40,10 +40,19 @@
       <td align="center" width="110"><b>🌍 Standort</b><br><br>Deutschland</td>
       <td align="center" width="110"><b>⚡ Verfügbarkeit</b><br><br>24/7 Support</td>
       <td align="center" width="110"><b>🔒 Sicherheit</b><br><br>ISO-konform</td>
-      <td align="center" width="110"><b>🚀 Projekte</b><br><br>10+ erfolgreich</td>
+      <td align="center" width="110"><b>🚀 Kunden</b><br><br>500+</td>
       <td align="center" width="110"><b>🌐 Sprachen</b><br><br>DE &amp; EN</td>
     </tr>
   </table>
+
+  <br>
+
+  <!-- Trust badges matching homepage hero trust bar -->
+  ![ISO 27001](https://img.shields.io/badge/✅_ISO_27001-Zertifiziert-060c16?style=flat-square&labelColor=0a1120)
+  ![DE-CIX](https://img.shields.io/badge/🌐_DE--CIX-Partner-060c16?style=flat-square&labelColor=0a1120)
+  ![Ökostrom](https://img.shields.io/badge/⚡_100%25-Ökostrom-060c16?style=flat-square&labelColor=0a1120)
+  ![Uptime](https://img.shields.io/badge/🟢_99%2C9%25-Uptime-060c16?style=flat-square&labelColor=0a1120)
+  ![Erstreaktion](https://img.shields.io/badge/⚡_Erstreaktion-< 15 Min.-060c16?style=flat-square&labelColor=0a1120)
 
   ---
 
@@ -118,7 +127,7 @@
         <b><a href="https://suchtilive.com" target="_blank">SuchtiLive</a></b><br>
         <i>Geschäftsführer &amp; Head Dev</i><br><br>
         <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-060c16?style=flat-square&logo=google-chrome&logoColor=22D3EE&labelColor=0a1120" /></a>
-        <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0a1120" /></a>
+        <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-060c16?style=flat-square&logo=github&logoColor=white&labelColor=0a1120" /></a>
       </td>
     </tr>
   </table>
@@ -255,6 +264,57 @@
 
   ---
 
+  ### 📊 Zahlen & Fakten
+
+  <table align="center" width="85%">
+    <tr>
+      <td align="center" width="16%" valign="top">
+        <h3>500+</h3>
+        <b>Aktive Kunden</b><br>
+        <sub>Unternehmen &amp; Entwickler</sub>
+      </td>
+      <td align="center" width="16%" valign="top">
+        <h3>99,9 %</h3>
+        <b>Verfügbarkeit</b><br>
+        <sub>Stabile Infrastruktur</sub>
+      </td>
+      <td align="center" width="16%" valign="top">
+        <h3>&lt; 15 Min.</h3>
+        <b>Erstreaktion</b><br>
+        <sub>Garantiert im Support</sub>
+      </td>
+      <td align="center" width="16%" valign="top">
+        <h3>4</h3>
+        <b>Standorte</b><br>
+        <sub>FFM · DUS · BER · MUC</sub>
+      </td>
+      <td align="center" width="16%" valign="top">
+        <h3>24/7</h3>
+        <b>Monitoring</b><br>
+        <sub>Proaktive Überwachung</sub>
+      </td>
+      <td align="center" width="16%" valign="top">
+        <h3>100 %</h3>
+        <b>Ökostrom</b><br>
+        <sub>Alle Rechenzentren</sub>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ### 🤝 Partner
+
+  <br>
+
+  ![Microsoft](https://img.shields.io/badge/Microsoft-Cloud_%26_Produktivität-0a1120?style=flat-square&logo=microsoft&logoColor=22D3EE)
+  ![Plesk](https://img.shields.io/badge/Plesk-WebOps_%26_Hosting-0a1120?style=flat-square&logo=plesk&logoColor=22D3EE)
+  ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-Kommunikation-0a1120?style=flat-square&logo=teamspeak&logoColor=22D3EE)
+  ![EasyPanel](https://img.shields.io/badge/EasyPanel-Container_%26_Deployments-0a1120?style=flat-square&logo=docker&logoColor=22D3EE)
+  ![myloc](https://img.shields.io/badge/myloc-Rechenzentrum_Ruhrgebiet-0a1120?style=flat-square&logo=server&logoColor=22D3EE)
+
+  ---
+
   ### 💻 Tech Stack
 
   <details>
@@ -358,9 +418,10 @@
   <br>
 
   <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Zur_Website-060c16?style=for-the-badge&labelColor=0a1120" /></a>
-  <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-060c16?style=for-the-badge&labelColor=0d1730" /></a>
+  <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬_Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_Kontakt_aufnehmen-060c16?style=for-the-badge&labelColor=0a1120" /></a>
+  <a href="tel:+4917647870707" target="_blank"><img src="https://img.shields.io/badge/📞_+49_176_47870707-060c16?style=for-the-badge&labelColor=0a1120" /></a>
 
   ---
 
