@@ -351,14 +351,6 @@
 
   ### 📊 GitHub Insights
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xtream-ITSolutions&theme=tokyonight" alt="Profile Details" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xtream-ITSolutions&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xtream-ITSolutions&theme=tokyonight" alt="Most Commit Language" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xtream-ITSolutions&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xtream-ITSolutions&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=22D3EE" alt="GitHub Streak" />
 
   ---
@@ -421,7 +413,7 @@
   <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬_Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_Kontakt_aufnehmen-060c16?style=for-the-badge&labelColor=0a1120" /></a>
-  <a href="tel:+4917647870707" target="_blank"><img src="https://img.shields.io/badge/📞_+49_176_47870707-060c16?style=for-the-badge&labelColor=0a1120" /></a>
+  <a href="tel:+4915569429974" target="_blank"><img src="https://img.shields.io/badge/📞_+49_155_69429974-060c16?style=for-the-badge&labelColor=0a1120" /></a>
 
   ---
 
