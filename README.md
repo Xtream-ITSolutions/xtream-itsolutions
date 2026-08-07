@@ -413,7 +413,7 @@
   <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬_Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_Kontakt_aufnehmen-060c16?style=for-the-badge&labelColor=0a1120" /></a>
-  <a href="tel:+4915569429974" target="_blank"><img src="https://img.shields.io/badge/📞_+49_155_69429974-060c16?style=for-the-badge&labelColor=0a1120" /></a>
+  <a href="tel:+4923665830630" target="_blank"><img src="https://img.shields.io/badge/📞_02366_5830630-060c16?style=for-the-badge&labelColor=0a1120" /></a>
 
   ---
 
