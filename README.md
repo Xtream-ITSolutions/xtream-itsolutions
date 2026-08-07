@@ -52,7 +52,7 @@
   ![DE-CIX](https://img.shields.io/badge/🌐_DE--CIX-Partner-060c16?style=flat-square&labelColor=0a1120)
   ![Ökostrom](https://img.shields.io/badge/⚡_100%25-Ökostrom-060c16?style=flat-square&labelColor=0a1120)
   ![Uptime](https://img.shields.io/badge/🟢_99%2C9%25-Uptime-060c16?style=flat-square&labelColor=0a1120)
-  ![Erstreaktion](https://img.shields.io/badge/⚡_Erstreaktion-< 15 Min.-060c16?style=flat-square&labelColor=0a1120)
+  ![Erstreaktion](https://img.shields.io/badge/⚡_Erstreaktion-%3C_15_Min.-060c16?style=flat-square&labelColor=0a1120)
 
   ---
 
