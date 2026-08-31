@@ -7,7 +7,7 @@
   <br>
 
   <!-- Logo from CDN (matches website) -->
-  <img src="https://cdn.xtream-itsolutions.com/r/gpwkMU" alt="Xtream-ITSolutions Logo" width="90" style="border-radius:16px;border:1px solid rgba(124,59,237,0.2)" />
+  <img src="https://cdn.xtream-itsolutions.com/r/5RXxNG" alt="Xtream-ITSolutions Logo" width="90" style="border-radius:16px;border:1px solid rgba(124,59,237,0.2)" />
 
   <br>
 
