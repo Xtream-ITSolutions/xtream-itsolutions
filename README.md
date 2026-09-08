@@ -1,26 +1,26 @@
 <div align="center">
 
   <!-- Header: matches website top accent line + dark background -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3BED&height=4&section=header" width="100%" alt="" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:060c16,50:1a0a35,100:0a1120&height=160&section=header&text=Xtream-ITSolutions&fontSize=46&fontColor=7C3BED&fontAlignY=45&desc=Managed%20Platform&descAlignY=68&descSize=14&descFontColor=9d7bd4&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=060c16&height=4&section=header" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:060c16,100:0a1120&height=160&section=header&text=Xtream-ITSolutions&fontSize=46&fontColor=22D3EE&fontAlignY=45&desc=Managed%20Platform&descAlignY=68&descSize=14&descFontColor=64748B&animation=fadeIn" width="100%" alt="Header" />
 
   <br>
 
   <!-- Logo from CDN (matches website) -->
-  <img src="https://cdn.xtream-itsolutions.com/r/5RXxNG" alt="Xtream-ITSolutions Logo" width="90" style="border-radius:16px;border:1px solid rgba(124,59,237,0.2)" />
+  <img src="https://cdn.xtream-itsolutions.com/u/logo.png" alt="Xtream-ITSolutions Logo" width="90" style="border-radius:16px;border:1px solid rgba(34,211,238,0.2)" />
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1200&color=7C3BED&center=true&vCenter=true&width=640&lines=Experten+f%C3%BCr+IT-Infrastruktur+%26+Cloud;Moderne+Softwareentwicklung+aus+Deutschland;Hochverf%C3%BCgbares+Hosting+%26+VPS;Security+%2C+DevOps+%26+IT-Consulting)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&pause=1200&color=22D3EE&center=true&vCenter=true&width=640&lines=Experten+f%C3%BCr+IT-Infrastruktur+%26+Cloud;Moderne+Softwareentwicklung+aus+Deutschland;Hochverf%C3%BCgbares+Hosting+%26+VPS;Security+%2C+DevOps+%26+IT-Consulting)](https://git.io/typing-svg)
 
   <br>
 
-  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-xtream--itsolutions.com-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
+  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-xtream--itsolutions.com-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_E--Mail-support%40xtream--itsolutions.com-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
+  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_E--Mail-support%40xtream--itsolutions.com-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <br>
-  <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=GitHub+Followers&style=for-the-badge&logo=github&logoColor=white&color=7C3BED&labelColor=1a0a35" /></a>
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-7C3BED?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=1a0a35" />
+  <a href="https://github.com/Xtream-ITSolutions" target="_blank"><img src="https://img.shields.io/github/followers/Xtream-ITSolutions?label=GitHub+Followers&style=for-the-badge&logo=github&logoColor=white&color=060c16&labelColor=0a1120" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-22D3EE?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0a1120" />
 
   <br><br>
 
@@ -48,11 +48,11 @@
   <br>
 
   <!-- Trust badges matching homepage hero trust bar -->
-  ![ISO 27001](https://img.shields.io/badge/✅_ISO_27001-Zertifiziert-7C3BED?style=flat-square&labelColor=1a0a35)
-  ![DE-CIX](https://img.shields.io/badge/🌐_DE--CIX-Partner-7C3BED?style=flat-square&labelColor=1a0a35)
-  ![Ökostrom](https://img.shields.io/badge/⚡_100%25-Ökostrom-7C3BED?style=flat-square&labelColor=1a0a35)
-  ![Uptime](https://img.shields.io/badge/🟢_99%2C9%25-Uptime-7C3BED?style=flat-square&labelColor=1a0a35)
-  ![Erstreaktion](https://img.shields.io/badge/⚡_Erstreaktion-%3C_15_Min.-7C3BED?style=flat-square&labelColor=1a0a35)
+  ![ISO 27001](https://img.shields.io/badge/✅_ISO_27001-Zertifiziert-060c16?style=flat-square&labelColor=0a1120)
+  ![DE-CIX](https://img.shields.io/badge/🌐_DE--CIX-Partner-060c16?style=flat-square&labelColor=0a1120)
+  ![Ökostrom](https://img.shields.io/badge/⚡_100%25-Ökostrom-060c16?style=flat-square&labelColor=0a1120)
+  ![Uptime](https://img.shields.io/badge/🟢_99%2C9%25-Uptime-060c16?style=flat-square&labelColor=0a1120)
+  ![Erstreaktion](https://img.shields.io/badge/⚡_Erstreaktion-< 15 Min.-060c16?style=flat-square&labelColor=0a1120)
 
   ---
 
@@ -126,8 +126,8 @@
         <img src="https://github.com/SuchtiLive.png?size=120" width="90" /><br><br>
         <b><a href="https://suchtilive.com" target="_blank">SuchtiLive</a></b><br>
         <i>Geschäftsführer &amp; Head Dev</i><br><br>
-        <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-7C3BED?style=flat-square&logo=google-chrome&logoColor=white&labelColor=1a0a35" /></a>
-        <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-7C3BED?style=flat-square&logo=github&logoColor=white&labelColor=1a0a35" /></a>
+        <a href="https://suchtilive.com" target="_blank"><img src="https://img.shields.io/badge/Website-060c16?style=flat-square&logo=google-chrome&logoColor=22D3EE&labelColor=0a1120" /></a>
+        <a href="https://github.com/SuchtiLive" target="_blank"><img src="https://img.shields.io/badge/GitHub-060c16?style=flat-square&logo=github&logoColor=white&labelColor=0a1120" /></a>
       </td>
     </tr>
   </table>
@@ -138,11 +138,11 @@
 
   <br>
 
-  ![](https://img.shields.io/badge/Next.js%2015-Aktiv%20in%20Entwicklung-1a0a35?style=flat-square&logo=next.js&logoColor=7C3BED)
-  ![](https://img.shields.io/badge/Kubernetes-Infrastruktur%20Ausbau-1a0a35?style=flat-square&logo=kubernetes&logoColor=7C3BED)
-  ![](https://img.shields.io/badge/TypeScript-Schwerpunkt%202026-1a0a35?style=flat-square&logo=typescript&logoColor=7C3BED)
-  ![](https://img.shields.io/badge/AI%20Integration-In%20Planung-1a0a35?style=flat-square&logo=openai&logoColor=7C3BED)
-  ![](https://img.shields.io/badge/Discord%20Bots-Neue%20Features-1a0a35?style=flat-square&logo=discord&logoColor=7C3BED)
+  ![](https://img.shields.io/badge/Next.js%2015-Aktiv%20in%20Entwicklung-0a1120?style=flat-square&logo=next.js&logoColor=22D3EE)
+  ![](https://img.shields.io/badge/Kubernetes-Infrastruktur%20Ausbau-0a1120?style=flat-square&logo=kubernetes&logoColor=22D3EE)
+  ![](https://img.shields.io/badge/TypeScript-Schwerpunkt%202026-0a1120?style=flat-square&logo=typescript&logoColor=22D3EE)
+  ![](https://img.shields.io/badge/AI%20Integration-In%20Planung-0a1120?style=flat-square&logo=openai&logoColor=22D3EE)
+  ![](https://img.shields.io/badge/Discord%20Bots-Neue%20Features-0a1120?style=flat-square&logo=discord&logoColor=22D3EE)
 
   ---
 
@@ -254,10 +254,10 @@
       <td align="center" valign="top">
         <h4>🤖 Xtream-Head</h4>
         KI-gestützte Lösung von Xtream-ITSolutions<br><br>
-        <a href="https://xtream-head.com" target="_blank"><img src="https://img.shields.io/badge/🌐_xtream--head.com-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
+        <a href="https://xtream-head.com" target="_blank"><img src="https://img.shields.io/badge/🌐_xtream--head.com-060c16?style=for-the-badge&labelColor=0a1120" /></a>
         <br><br>
-        <img src="https://img.shields.io/badge/Status-Live-7C3BED?style=flat-square&logo=statuspage&logoColor=white&labelColor=1a0a35" />
-        <img src="https://img.shields.io/badge/by-Xtream--ITSolutions-1a0a35?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Live-22D3EE?style=flat-square&logo=statuspage&logoColor=white&labelColor=0a1120" />
+        <img src="https://img.shields.io/badge/by-Xtream--ITSolutions-0a1120?style=flat-square" />
       </td>
     </tr>
   </table>
@@ -307,11 +307,11 @@
 
   <br>
 
-  ![Microsoft](https://img.shields.io/badge/Microsoft-Cloud_%26_Produktivität-1a0a35?style=flat-square&logo=microsoft&logoColor=7C3BED)
-  ![Plesk](https://img.shields.io/badge/Plesk-WebOps_%26_Hosting-1a0a35?style=flat-square&logo=plesk&logoColor=7C3BED)
-  ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-Kommunikation-1a0a35?style=flat-square&logo=teamspeak&logoColor=7C3BED)
-  ![EasyPanel](https://img.shields.io/badge/EasyPanel-Container_%26_Deployments-1a0a35?style=flat-square&logo=docker&logoColor=7C3BED)
-  ![myloc](https://img.shields.io/badge/myloc-Rechenzentrum_Ruhrgebiet-1a0a35?style=flat-square&logo=server&logoColor=7C3BED)
+  ![Microsoft](https://img.shields.io/badge/Microsoft-Cloud_%26_Produktivität-0a1120?style=flat-square&logo=microsoft&logoColor=22D3EE)
+  ![Plesk](https://img.shields.io/badge/Plesk-WebOps_%26_Hosting-0a1120?style=flat-square&logo=plesk&logoColor=22D3EE)
+  ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-Kommunikation-0a1120?style=flat-square&logo=teamspeak&logoColor=22D3EE)
+  ![EasyPanel](https://img.shields.io/badge/EasyPanel-Container_%26_Deployments-0a1120?style=flat-square&logo=docker&logoColor=22D3EE)
+  ![myloc](https://img.shields.io/badge/myloc-Rechenzentrum_Ruhrgebiet-0a1120?style=flat-square&logo=server&logoColor=22D3EE)
 
   ---
 
@@ -351,13 +351,15 @@
 
   ### 📊 GitHub Insights
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true&ring=7C3BED&fire=7C3BED&currStreakLabel=7C3BED&sideLabels=7C3BED" alt="GitHub Streak" />
-
-  ---
-
-  ### 📈 Contribution Activity
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtream-ITSolutions&theme=tokyo-night&hide_border=true&area=true&color=7C3BED&line=7C3BED&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xtream-ITSolutions&theme=tokyonight" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xtream-ITSolutions&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xtream-ITSolutions&theme=tokyonight" alt="Most Commit Language" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xtream-ITSolutions&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xtream-ITSolutions&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtream-ITSolutions&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=22D3EE" alt="GitHub Streak" />
 
   ---
 
@@ -409,21 +411,21 @@
 
   <br>
 
-  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Zur_Website-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
-  <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
+  <a href="https://xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/🌐_Zur_Website-060c16?style=for-the-badge&labelColor=0a1120" /></a>
+  <a href="https://xtream-itsolutions.com/produkte" target="_blank"><img src="https://img.shields.io/badge/💼_Unsere_Services-060c16?style=for-the-badge&labelColor=0a1120" /></a>
   <a href="https://discord.gg/xtream-itsolutions" target="_blank"><img src="https://img.shields.io/badge/💬_Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_Kontakt_aufnehmen-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
-  <a href="tel:+4923665830630" target="_blank"><img src="https://img.shields.io/badge/📞_02366_5830630-7C3BED?style=for-the-badge&labelColor=1a0a35" /></a>
+  <a href="mailto:support@xtream-itsolutions.com" target="_blank"><img src="https://img.shields.io/badge/📧_Kontakt_aufnehmen-060c16?style=for-the-badge&labelColor=0a1120" /></a>
+  <a href="tel:+4917647870707" target="_blank"><img src="https://img.shields.io/badge/📞_+49_176_47870707-060c16?style=for-the-badge&labelColor=0a1120" /></a>
 
   ---
 
-  <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=7C3BED&style=flat-square&labelColor=1a0a35" alt="Profilbesuche" />
+  <img src="https://komarev.com/ghpvc/?username=Xtream-ITSolutions&label=Profilbesuche&color=060c16&style=flat-square&labelColor=0a1120" alt="Profilbesuche" />
 
   <br><br>
 
   <!-- Footer: matches website footer accent line + gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3BED&height=1&section=footer" width="100%" alt="" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a1120,50:1a0a35,100:04091400&height=80&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=22D3EE&height=1&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:060c16,100:04091400&height=80&section=footer" width="100%" alt="Footer" />
 
   <sub>© 2024–2026 Xtream-ITSolutions UG (haftungsbeschränkt) &nbsp;|&nbsp; Entwickelt mit <span>❤️</span> &nbsp;|&nbsp; Alle Rechte vorbehalten.</sub>
 
