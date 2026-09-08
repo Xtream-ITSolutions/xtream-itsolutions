@@ -363,12 +363,6 @@
 
   ---
 
-  ### 📈 Contribution Activity
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtream-ITSolutions&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=22D3EE&point=ffffff" alt="Activity Graph" />
-
-  ---
-
   ### 🐍 Contribution Snake
 
   <picture>
