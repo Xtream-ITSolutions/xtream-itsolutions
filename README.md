@@ -40,7 +40,7 @@
       <td align="center" width="110"><b>🌍 Standort</b><br><br>Deutschland</td>
       <td align="center" width="110"><b>⚡ Verfügbarkeit</b><br><br>24/7 Support</td>
       <td align="center" width="110"><b>🔒 Sicherheit</b><br><br>ISO-konform</td>
-      <td align="center" width="110"><b>🚀 Kunden</b><br><br>500+</td>
+      <td align="center" width="110"><b>🚀 Kunden</b><br><br>10+</td>
       <td align="center" width="110"><b>🌐 Sprachen</b><br><br>DE &amp; EN</td>
     </tr>
   </table>
@@ -307,11 +307,11 @@
 
   <br>
 
-  ![Microsoft](https://img.shields.io/badge/Microsoft-Cloud_%26_Produktivität-0a1120?style=flat-square&logo=microsoft&logoColor=22D3EE)
-  ![Plesk](https://img.shields.io/badge/Plesk-WebOps_%26_Hosting-0a1120?style=flat-square&logo=plesk&logoColor=22D3EE)
-  ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-Kommunikation-0a1120?style=flat-square&logo=teamspeak&logoColor=22D3EE)
-  ![EasyPanel](https://img.shields.io/badge/EasyPanel-Container_%26_Deployments-0a1120?style=flat-square&logo=docker&logoColor=22D3EE)
-  ![myloc](https://img.shields.io/badge/myloc-Rechenzentrum_Ruhrgebiet-0a1120?style=flat-square&logo=server&logoColor=22D3EE)
+  ![Microsoft](https://img.shields.io/badge/Microsoft-Cloud_%26_Produktivität-1a0a35?style=flat-square&logo=microsoft&logoColor=7C3BED)
+  ![Plesk](https://img.shields.io/badge/Plesk-WebOps_%26_Hosting-1a0a35?style=flat-square&logo=plesk&logoColor=7C3BED)
+  ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-Kommunikation-1a0a35?style=flat-square&logo=teamspeak&logoColor=7C3BED)
+  ![EasyPanel](https://img.shields.io/badge/EasyPanel-Container_%26_Deployments-1a0a35?style=flat-square&logo=docker&logoColor=7C3BED)
+  ![OVHcloud](https://img.shields.io/badge/OVHcloud-Rechenzentren_EU-1a0a35?style=flat-square&logo=ovh&logoColor=7C3BED)
 
   ---
 
