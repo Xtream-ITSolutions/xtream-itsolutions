@@ -144,14 +144,12 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 
 ## GitHub-Aktivität
 
+Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du direkt auf GitHub. Wir verzichten bewusst auf externe Statistik-Karten, damit das Profil auch bei Rate-Limits und Ausfällen externer Bilddienste vollständig nutzbar bleibt.
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xtream-ITSolutions&theme=github_dark" alt="GitHub Profilübersicht" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xtream-ITSolutions&theme=github_dark" alt="Repository-Sprachen" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xtream-ITSolutions&theme=github_dark" alt="GitHub Statistiken" />
+<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-7C3BED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
+<a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-0F172A?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Commit-Historie ansehen" /></a>
 
 </div>
 
