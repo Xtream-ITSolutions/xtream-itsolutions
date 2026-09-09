@@ -24,34 +24,76 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 
 ---
 
+## Inhaltsübersicht
+
+- [Was wir machen](#was-wir-machen)
+- [Leistungsbereiche](#leistungsbereiche)
+- [Technische Schwerpunkte](#technische-schwerpunkte)
+- [Wie wir arbeiten](#wie-wir-arbeiten)
+- [Produkt- und Projektentwicklung](#produkt--und-projektentwicklung)
+- [Technologien](#technologien)
+- [Kontakt](#kontakt)
+
 ## Was wir machen
 
 Xtream-ITSolutions UG (haftungsbeschränkt) entwickelt und betreibt digitale Lösungen für Kunden, die zuverlässige Infrastruktur und technische Umsetzung aus einer Hand suchen. Unser Schwerpunkt liegt auf nachvollziehbarem Betrieb, klarer Kommunikation und Lösungen, die langfristig wartbar bleiben.
 
-| Bereich | Leistungen |
-|---|---|
-| **Managed Hosting** | Webhosting, VPS, dedizierte Server, Domains und SSL |
-| **Software Engineering** | Web-Apps, APIs, Automationen, Discord-Bots und Integrationen |
-| **Security & DevOps** | Docker, CI/CD, Monitoring, System-Hardening und Infrastruktur-Optimierung |
-| **IT-Consulting** | Architektur, Migration, Digitalisierung und technische Projektbegleitung |
+Wir verbinden **Softwareentwicklung, Infrastruktur und Betrieb**. Dadurch können technische Entscheidungen nicht nur implementiert, sondern auch unter realen Betriebsbedingungen bewertet und weiterentwickelt werden.
+
+## Leistungsbereiche
+
+| Bereich | Typische Aufgaben | Ergebnis |
+|---|---|---|
+| **Managed Hosting** | Webhosting, VPS, dedizierte Server, Domains und SSL | Stabiler und nachvollziehbarer Betrieb |
+| **Software Engineering** | Web-Apps, APIs, Automationen, Bots und Integrationen | Wartbare, dokumentierte Software |
+| **Security & DevOps** | Docker, CI/CD, Monitoring, Backups und Hardening | Reproduzierbare Deployments und geringere Betriebsrisiken |
+| **IT-Consulting** | Architektur, Migration, Digitalisierung und technische Projektbegleitung | Klare Entscheidungen und umsetzbare Roadmaps |
+
+## Technische Schwerpunkte
+
+### Plattformen und Webanwendungen
+
+- Moderne Webanwendungen mit React, Next.js, Vue und TypeScript
+- Backend- und API-Entwicklung mit Node.js, PHP/Laravel und Python
+- Authentifizierung, Rollenmodelle, Integrationen und automatisierte Abläufe
+- Responsive Oberflächen mit Fokus auf verständliche Nutzerführung
+
+### Infrastruktur und Betrieb
+
+- Containerisierte Anwendungen mit Docker und Kubernetes
+- Linux-basierter Betrieb, DNS, TLS, Reverse Proxies und Netzwerkkonzepte
+- CI/CD-Pipelines für reproduzierbare Builds und Deployments
+- Monitoring, Backups, Logging und dokumentierte Betriebsabläufe
+
+### Sicherheit und Qualität
+
+- Prinzipien der minimalen Berechtigung und getrennte Umgebungen
+- Secret- und Konfigurationsmanagement ohne Zugangsdaten im Repository
+- Abhängigkeiten, Updates und externe Schnittstellen im Blick behalten
+- Technische Entscheidungen nachvollziehbar dokumentieren
+
+> Verfügbarkeiten, Reaktionszeiten und Supportumfang richten sich nach dem jeweils vereinbarten Leistungsumfang beziehungsweise SLA.
 
 ## Für wen wir arbeiten
 
 Unsere Leistungen richten sich insbesondere an kleine und mittlere Unternehmen, Start-ups, Agenturen, Entwicklerteams und Betreiber digitaler Plattformen. Wir übernehmen sowohl klar abgegrenzte Entwicklungsaufgaben als auch die technische Betreuung laufender Systeme.
 
-## Warum Xtream-ITSolutions?
+## Wie wir arbeiten
 
-- **Technische Tiefe:** Wir verbinden Softwareentwicklung mit Infrastruktur- und Betriebswissen.
-- **Klare Zuständigkeit:** Von der ersten Architekturentscheidung bis zum laufenden Betrieb gibt es nachvollziehbare Ansprechpartner.
-- **Pragmatische Umsetzung:** Wir setzen auf passende Lösungen statt unnötiger Komplexität.
-- **Sicherer Betrieb:** Monitoring, Backups, Zugriffsschutz und dokumentierte Prozesse gehören von Anfang an in die Planung.
-- **Transparente Zusammenarbeit:** Leistungsumfang, Verantwortlichkeiten und Supportwege werden vor Projektbeginn klar festgelegt.
+| Phase | Inhalt |
+|:---:|---|
+| **1. Verstehen** | Ziele, bestehende Systeme, Risiken und Prioritäten gemeinsam klären |
+| **2. Planen** | Technische Optionen vergleichen und einen realistischen Umfang festlegen |
+| **3. Umsetzen** | In nachvollziehbaren Schritten entwickeln, testen und dokumentieren |
+| **4. Betreiben** | Übergabe, Monitoring, Wartung und Weiterentwicklung passend zum Bedarf |
 
-> Verfügbarkeiten, Reaktionszeiten und Supportumfang richten sich nach dem jeweils vereinbarten Leistungsumfang beziehungsweise SLA.
+Wir starten gerne mit einem kleinen, klar abgegrenzten ersten Schritt. So werden technische Annahmen früh geprüft, bevor größere Investitionen entstehen.
 
-## Öffentliche Projekte und technische Arbeit
+## Produkt- und Projektentwicklung
 
-Unsere öffentlichen Repositories zeigen, woran wir arbeiten und welche Technologien wir einsetzen. Für Projektanfragen, individuelle Entwicklungen und betreute Infrastruktur ist unser [Kontaktbereich](https://xtream-itsolutions.com/unternehmen/kontakt) der schnellste Weg.
+Ein Teil unserer Arbeit entsteht als interne oder kundenspezifische Software und ist deshalb nicht öffentlich einsehbar. Das betrifft beispielsweise Plattformen, Automationen, Infrastrukturwerkzeuge und Integrationen. Öffentliche Repositorys bilden daher nur einen Ausschnitt unserer technischen Arbeit ab.
+
+Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konzepte oder eine individuelle Demo. Dabei klären wir vorab, welche Informationen vertraulich bleiben müssen.
 
 <div align="center">
 
@@ -115,7 +157,14 @@ Unsere öffentlichen Repositories zeigen, woran wir arbeiten und welche Technolo
 
 ## Kontakt
 
-Du planst ein IT-, Hosting- oder Softwareprojekt? Schreib uns mit einer kurzen Beschreibung deines Vorhabens. Wir klären gemeinsam Anforderungen, technische Optionen und den passenden nächsten Schritt.
+Du planst ein IT-, Hosting- oder Softwareprojekt? Schick uns am besten:
+
+- eine kurze Beschreibung des Vorhabens oder Problems,
+- den gewünschten Zeitrahmen,
+- vorhandene Systeme oder technische Rahmenbedingungen,
+- und – falls bekannt – das gewünschte Ergebnis.
+
+Wir klären gemeinsam Anforderungen, technische Optionen und den passenden nächsten Schritt.
 
 <div align="center">
 
