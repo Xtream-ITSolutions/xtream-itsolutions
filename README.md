@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.xtream-itsolutions.com/r/5RXxNG" alt="Xtream-ITSolutions Logo" width="110" />
+<img src="https://cdn.xtream-itsolutions.com/r/eNwivP" alt="Xtream-ITSolutions UG Logo" width="320" />
 
 # Xtream-ITSolutions
 
