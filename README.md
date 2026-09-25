@@ -10,15 +10,15 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 
 <br>
 
-<a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-7C3BED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-BE3455?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-0F172A?style=for-the-badge&logo=maildotru&logoColor=A78BFA" alt="E-Mail" /></a>
+<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-000000?style=for-the-badge&logo=maildotru&logoColor=BE3455" alt="E-Mail" /></a>
 
 <br><br>
 
-[![Status](https://img.shields.io/badge/Status-Offen_für_Projekte-7C3BED?style=flat-square)](https://xtream-itsolutions.com/unternehmen/kontakt)
-[![Standort](https://img.shields.io/badge/Standort-Deutschland-0F172A?style=flat-square)](https://xtream-itsolutions.com)
-[![Sprachen](https://img.shields.io/badge/Sprachen-DE_%26_EN-0F172A?style=flat-square)](https://xtream-itsolutions.com)
+[![Status](https://img.shields.io/badge/Status-Offen_für_Projekte-BE3455?style=flat-square)](https://xtream-itsolutions.com/unternehmen/kontakt)
+[![Standort](https://img.shields.io/badge/Standort-Deutschland-000000?style=flat-square)](https://xtream-itsolutions.com)
+[![Sprachen](https://img.shields.io/badge/Sprachen-DE_%26_EN-000000?style=flat-square)](https://xtream-itsolutions.com)
 
 </div>
 
@@ -97,8 +97,8 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 
 <div align="center">
 
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-7C3BED?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
-<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-0F172A?style=for-the-badge&logo=bookstack&logoColor=A78BFA" alt="Services" /></a>
+<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-BE3455?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
+<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=BE3455" alt="Services" /></a>
 
 </div>
 
@@ -106,33 +106,33 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 
 ### Frontend & Design
 
-![HTML](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Vue](https://img.shields.io/badge/Vue-0F172A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Vue](https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
 ### Backend & Daten
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=339933)
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-0F172A?style=flat-square&logo=redis&logoColor=DC382D)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D)
 
 ### Infrastruktur & Betrieb
 
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FCC624)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0F172A?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 
 ## Aktuelle Schwerpunkte
 
@@ -148,8 +148,8 @@ Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du dire
 
 <div align="center">
 
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-7C3BED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
-<a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-0F172A?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Commit-Historie ansehen" /></a>
+<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-BE3455?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
+<a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-000000?style=for-the-badge&logo=git&logoColor=BE3455" alt="Commit-Historie ansehen" /></a>
 
 </div>
 
@@ -166,8 +166,8 @@ Wir klären gemeinsam Anforderungen, technische Optionen und den passenden näch
 
 <div align="center">
 
-<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-7C3BED?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
-<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/support%40xtream--itsolutions.com-0F172A?style=for-the-badge&logo=minutemailer&logoColor=A78BFA" alt="E-Mail schreiben" /></a>
+<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-BE3455?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
+<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/support%40xtream--itsolutions.com-000000?style=for-the-badge&logo=minutemailer&logoColor=BE3455" alt="E-Mail schreiben" /></a>
 <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord beitreten" /></a>
 
 <br><br>
