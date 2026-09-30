@@ -10,13 +10,13 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 
 <br>
 
-<a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-BE3455?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-007FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-000000?style=for-the-badge&logo=maildotru&logoColor=BE3455" alt="E-Mail" /></a>
+<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-000000?style=for-the-badge&logo=maildotru&logoColor=A7D8F0" alt="E-Mail" /></a>
 
 <br><br>
 
-[![Status](https://img.shields.io/badge/Status-Offen_für_Projekte-BE3455?style=flat-square)](https://xtream-itsolutions.com/unternehmen/kontakt)
+[![Status](https://img.shields.io/badge/Status-Offen_für_Projekte-007FFF?style=flat-square)](https://xtream-itsolutions.com/unternehmen/kontakt)
 [![Standort](https://img.shields.io/badge/Standort-Deutschland-000000?style=flat-square)](https://xtream-itsolutions.com)
 [![Sprachen](https://img.shields.io/badge/Sprachen-DE_%26_EN-000000?style=flat-square)](https://xtream-itsolutions.com)
 
@@ -97,8 +97,8 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 
 <div align="center">
 
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-BE3455?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
-<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=BE3455" alt="Services" /></a>
+<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-007FFF?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
+<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=A7D8F0" alt="Services" /></a>
 
 </div>
 
@@ -148,8 +148,8 @@ Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du dire
 
 <div align="center">
 
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-BE3455?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
-<a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-000000?style=for-the-badge&logo=git&logoColor=BE3455" alt="Commit-Historie ansehen" /></a>
+<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-007FFF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
+<a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-000000?style=for-the-badge&logo=git&logoColor=A7D8F0" alt="Commit-Historie ansehen" /></a>
 
 </div>
 
@@ -166,8 +166,8 @@ Wir klären gemeinsam Anforderungen, technische Optionen und den passenden näch
 
 <div align="center">
 
-<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-BE3455?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
-<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/support%40xtream--itsolutions.com-000000?style=for-the-badge&logo=minutemailer&logoColor=BE3455" alt="E-Mail schreiben" /></a>
+<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-007FFF?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
+<a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/support%40xtream--itsolutions.com-000000?style=for-the-badge&logo=minutemailer&logoColor=A7D8F0" alt="E-Mail schreiben" /></a>
 <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord beitreten" /></a>
 
 <br><br>
