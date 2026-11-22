@@ -6,18 +6,25 @@
 
 ### Managed Infrastructure · Cloud · Software Engineering
 
-Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb moderner, sicherer IT-Lösungen – von der Infrastruktur bis zur individuellen Software.
+**Infrastruktur für Unternehmen — klar betrieben, sauber skaliert.**
+
+Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb moderner, sicherer IT-Lösungen – von der Infrastruktur bis zur individuellen Software. Alles aus einer Hand, mit festen Ansprechpartnern in Deutschland.
 
 <br>
 
 <a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-007eff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Produkte-007eff?style=for-the-badge&logo=bookstack&logoColor=white" alt="Produkte" /></a>
+<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=handshake&logoColor=white" alt="Kontakt" /></a>
 <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.linkedin.com/company/xtream-itsolutions"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-000000?style=for-the-badge&logo=maildotru&logoColor=7be4f7" alt="E-Mail" /></a>
 
 <br><br>
 
 [![Status](https://img.shields.io/badge/Status-Offen_für_Projekte-007eff?style=flat-square)](https://xtream-itsolutions.com/unternehmen/kontakt)
-[![Standort](https://img.shields.io/badge/Standort-Deutschland-000000?style=flat-square)](https://xtream-itsolutions.com)
+[![Standort](https://img.shields.io/badge/Standort-Deutschland-000000?style=flat-square)](https://xtream-itsolutions.com/unternehmen/rechenzentrum)
+[![Hosting](https://img.shields.io/badge/Hosting-in_DE_&_EU-000000?style=flat-square)](https://xtream-itsolutions.com/unternehmen/rechenzentrum)
+[![DSGVO](https://img.shields.io/badge/DSGVO-konform-000000?style=flat-square)](https://xtream-itsolutions.com/rechtliches/datenschutz)
 [![Sprachen](https://img.shields.io/badge/Sprachen-DE_%26_EN-000000?style=flat-square)](https://xtream-itsolutions.com)
 
 </div>
@@ -27,27 +34,45 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 ## Inhaltsübersicht
 
 - [Was wir machen](#was-wir-machen)
+- [Warum Xtream-ITSolutions](#warum-xtream-itsolutions)
 - [Leistungsbereiche](#leistungsbereiche)
 - [Technische Schwerpunkte](#technische-schwerpunkte)
-- [Wie wir arbeiten](#wie-wir-arbeiten)
-- [Produkt- und Projektentwicklung](#produkt--und-projektentwicklung)
+- [Für wen wir arbeiten](#für-wen-wir-arbeiten)
 - [Technologien](#technologien)
+- [Wie wir arbeiten](#wie-wir-arbeiten)
+- [Beispielhafte Anwendungsfälle](#beispielhafte-anwendungsfälle)
+- [Aktuelle Schwerpunkte](#aktuelle-schwerpunkte)
+- [Open Source & Mitarbeit](#open-source--mitarbeit)
+- [Beitragsaktivität](#beitragsaktivität)
+- [Häufige Fragen](#häufige-fragen)
 - [Kontakt](#kontakt)
+- [English summary](#english-summary)
 
 ## Was wir machen
 
-Xtream-ITSolutions UG (haftungsbeschränkt) entwickelt und betreibt digitale Lösungen für Kunden, die zuverlässige Infrastruktur und technische Umsetzung aus einer Hand suchen. Unser Schwerpunkt liegt auf nachvollziehbarem Betrieb, klarer Kommunikation und Lösungen, die langfristig wartbar bleiben.
+Xtream-ITSolutions UG (haftungsbeschränkt) entwickelt und betreibt digitale Lösungen für Kunden, die **zuverlässige Infrastruktur und technische Umsetzung aus einer Hand** suchen. Unser Schwerpunkt liegt auf nachvollziehbarem Betrieb, klarer Kommunikation und Lösungen, die langfristig wartbar bleiben.
 
-Wir verbinden **Softwareentwicklung, Infrastruktur und Betrieb**. Dadurch können technische Entscheidungen nicht nur implementiert, sondern auch unter realen Betriebsbedingungen bewertet und weiterentwickelt werden.
+Wir verbinden **Softwareentwicklung, Infrastruktur und Betrieb**. Dadurch werden technische Entscheidungen nicht nur implementiert, sondern auch unter realen Betriebsbedingungen bewertet und weiterentwickelt — inklusive Monitoring, Backups und dokumentierter Betriebsabläufe.
+
+## Warum Xtream-ITSolutions
+
+| Prinzip | Was das für dich bedeutet |
+|---|---|
+| **🛠️ Alles aus einer Hand** | Hosting, Cloud, Entwicklung und Betreuung mit klarer Zuständigkeit statt vieler Dienstleister. |
+| **📖 Wartbar statt schnell zusammengebaut** | Saubere Architektur, Dokumentation und reproduzierbare Deployments — auch in einem Jahr noch verständlich. |
+| **🧑‍💻 Direkter Draht** | Feste Ansprechpartner, E-Mail mit Verlauf, Telefon für Eiliges und Discord für den laufenden Austausch. |
+| **🇩🇪 Betrieb in Deutschland** | Systeme in Frankfurt am Main, Verarbeitung nach DSGVO mit AV-Vertrag, Vertragspartner in Deutschland. |
 
 ## Leistungsbereiche
 
 | Bereich | Typische Aufgaben | Ergebnis |
 |---|---|---|
-| **Managed Hosting** | Webhosting, VPS, dedizierte Server, Domains und SSL | Stabiler und nachvollziehbarer Betrieb |
-| **Software Engineering** | Web-Apps, APIs, Automationen, Bots und Integrationen | Wartbare, dokumentierte Software |
-| **Security & DevOps** | Docker, CI/CD, Monitoring, Backups und Hardening | Reproduzierbare Deployments und geringere Betriebsrisiken |
-| **IT-Consulting** | Architektur, Migration, Digitalisierung und technische Projektbegleitung | Klare Entscheidungen und umsetzbare Roadmaps |
+| **☁️ Managed Hosting** | Webhosting, VPS, dedizierte Server, Domains und SSL | Stabiler und nachvollziehbarer Betrieb |
+| **💻 Software Engineering** | Web-Apps, APIs, Automationen, Bots und Integrationen | Wartbare, dokumentierte Software |
+| **🔒 Security & DevOps** | Docker, CI/CD, Monitoring, Backups und Hardening | Reproduzierbare Deployments und geringere Betriebsrisiken |
+| **🧭 IT-Consulting** | Architektur, Migration, Digitalisierung und technische Projektbegleitung | Klare Entscheidungen und umsetzbare Roadmaps |
+
+Mehr dazu unter [Produkte & Leistungen](https://xtream-itsolutions.com/produkte) und in unserem [Rechenzentrum in Frankfurt](https://xtream-itsolutions.com/unternehmen/rechenzentrum).
 
 ## Technische Schwerpunkte
 
@@ -76,31 +101,7 @@ Wir verbinden **Softwareentwicklung, Infrastruktur und Betrieb**. Dadurch könne
 
 ## Für wen wir arbeiten
 
-Unsere Leistungen richten sich insbesondere an kleine und mittlere Unternehmen, Start-ups, Agenturen, Entwicklerteams und Betreiber digitaler Plattformen. Wir übernehmen sowohl klar abgegrenzte Entwicklungsaufgaben als auch die technische Betreuung laufender Systeme.
-
-## Wie wir arbeiten
-
-| Phase | Inhalt |
-|:---:|---|
-| **1. Verstehen** | Ziele, bestehende Systeme, Risiken und Prioritäten gemeinsam klären |
-| **2. Planen** | Technische Optionen vergleichen und einen realistischen Umfang festlegen |
-| **3. Umsetzen** | In nachvollziehbaren Schritten entwickeln, testen und dokumentieren |
-| **4. Betreiben** | Übergabe, Monitoring, Wartung und Weiterentwicklung passend zum Bedarf |
-
-Wir starten gerne mit einem kleinen, klar abgegrenzten ersten Schritt. So werden technische Annahmen früh geprüft, bevor größere Investitionen entstehen.
-
-## Produkt- und Projektentwicklung
-
-Ein Teil unserer Arbeit entsteht als interne oder kundenspezifische Software und ist deshalb nicht öffentlich einsehbar. Das betrifft beispielsweise Plattformen, Automationen, Infrastrukturwerkzeuge und Integrationen. Öffentliche Repositorys bilden daher nur einen Ausschnitt unserer technischen Arbeit ab.
-
-Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konzepte oder eine individuelle Demo. Dabei klären wir vorab, welche Informationen vertraulich bleiben müssen.
-
-<div align="center">
-
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-007eff?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
-<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=7be4f7" alt="Services" /></a>
-
-</div>
+Unsere Leistungen richten sich insbesondere an **kleine und mittlere Unternehmen, Start-ups, Agenturen, Entwicklerteams und Betreiber digitaler Plattformen**. Wir übernehmen sowohl klar abgegrenzte Entwicklungsaufgaben als auch die technische Betreuung laufender Systeme — vom kleinen Einstieg bis zum laufenden Betrieb.
 
 ## Technologien
 
@@ -129,20 +130,67 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat-square&logo=proxmox&logoColor=E57000)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=009639)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=F46800)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=F38020)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
 
+## Wie wir arbeiten
+
+| Phase | Inhalt |
+|:---:|---|
+| **1. 🔍 Verstehen** | Ziele, bestehende Systeme, Risiken und Prioritäten gemeinsam klären |
+| **2. 🗺️ Planen** | Technische Optionen vergleichen und einen realistischen Umfang festlegen |
+| **3. 🔧 Umsetzen** | In nachvollziehbaren Schritten entwickeln, testen und dokumentieren |
+| **4. 📈 Betreiben** | Übergabe, Monitoring, Wartung und Weiterentwicklung passend zum Bedarf |
+
+Wir starten gerne mit einem **kleinen, klar abgegrenzten ersten Schritt**. So werden technische Annahmen früh geprüft, bevor größere Investitionen entstehen.
+
+## Beispielhafte Anwendungsfälle
+
+Ein Teil unserer Arbeit entsteht als interne oder kundenspezifische Software und ist deshalb nicht öffentlich einsehbar. Typische Vorhaben aus der Praxis:
+
+- **Webplattform für KMU** — moderne Website oder Kundenportal mit CMS-Anbindung, Hosting, SSL und Backups aus einer Hand.
+- **API & Automatisierung** — Schnittstellen, Bots und Workflows, die manuelle Prozesse ersetzen und Fehlerquellen reduzieren.
+- **Migration in betreutes Hosting** — Umzug bestehender Systeme nach Deutschland, inklusive DNS, TLS, Monitoring und Dokumentation.
+- **Absicherung laufender Systeme** — Hardening, Updates, Backup- und Monitoring-Konzept für weniger Betriebsrisiko.
+
+Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konzepte oder eine individuelle Demo. Dabei klären wir vorab, welche Informationen vertraulich bleiben müssen.
+
+<div align="center">
+
+<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-007eff?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
+<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=7be4f7" alt="Services" /></a>
+
+</div>
+
 ## Aktuelle Schwerpunkte
 
-- Ausbau und Dokumentation moderner Container- und Kubernetes-Infrastrukturen
-- Weiterentwicklung von Webplattformen und TypeScript-Anwendungen
-- Automatisierte Deployments, Monitoring und sichere Betriebsprozesse
-- Praktische KI-Integrationen für Support und interne Abläufe
-- Self-Service- und API-Funktionen für Kunden und Entwickler
+- 🔧 Ausbau und Dokumentation moderner Container- und Kubernetes-Infrastrukturen
+- 🚀 Weiterentwicklung von Webplattformen und TypeScript-Anwendungen
+- 🤖 Automatisierte Deployments, Monitoring und sichere Betriebsprozesse
+- ✨ Praktische KI-Integrationen für Support und interne Abläufe
+- 🔌 Self-Service- und API-Funktionen für Kunden und Entwickler
 
-## GitHub-Aktivität
+## Open Source & Mitarbeit
+
+Öffentliche Repositorys bilden nur einen Ausschnitt unserer technischen Arbeit ab — viele Plattformen, Automationen und Infrastrukturwerkzeuge entstehen intern oder kundenspezifisch.
+
+- Fehler gefunden? Eröffne gerne ein **Issue** im jeweiligen Repository.
+- Du möchtest etwas beitragen? Lies vorher kurz [CONTRIBUTING.md](CONTRIBUTING.md).
+- Sicherheitslücke vermutet? Bitte **nicht** öffentlich melden, sondern vertraulich per E-Mail gemäß [SECURITY.md](SECURITY.md).
+
+## Beitragsaktivität
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Beitrags-Snake-Animation" src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake.svg" />
+</picture>
 
 Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du direkt auf GitHub. Wir verzichten bewusst auf externe Statistik-Karten, damit das Profil auch bei Rate-Limits und Ausfällen externer Bilddienste vollständig nutzbar bleibt.
 
@@ -152,6 +200,36 @@ Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du dire
 <a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-000000?style=for-the-badge&logo=git&logoColor=7be4f7" alt="Commit-Historie ansehen" /></a>
 
 </div>
+
+## Häufige Fragen
+
+<details>
+<summary><strong>Übernehmt ihr auch kleine Projekte oder einzelne Aufgaben?</strong></summary>
+
+Ja. Wir starten gerne mit einem klar abgegrenzten ersten Schritt — zum Beispiel Hosting-Umzug, einzelne API-Anbindung oder technische Bestandsaufnahme — und erweitern danach bei Bedarf.
+
+</details>
+
+<details>
+<summary><strong>Betreut ihr auch laufende Systeme?</strong></summary>
+
+Ja. Neben Entwicklung übernehmen wir Monitoring, Updates, Backups und Weiterentwicklung passend zum vereinbarten Leistungsumfang beziehungsweise SLA.
+
+</details>
+
+<details>
+<summary><strong>Wo werden Daten gehostet?</strong></summary>
+
+Standardstandort ist Frankfurt am Main in Deutschland. Verarbeitung nach DSGVO mit Auftragsverarbeitungsvertrag, kein Drittlandstransfer durch den Betrieb. Details stehen auf der Seite [Rechenzentrum](https://xtream-itsolutions.com/unternehmen/rechenzentrum).
+
+</details>
+
+<details>
+<summary><strong>Warum ist hier nicht alles öffentlich auf GitHub?</strong></summary>
+
+Viele Kunden- und Infrastrukturprojekte dürfen aus Sicherheits- und Vertraulichkeitsgründen nicht öffentlich sein. Öffentliche Repositorys zeigen daher nur einen Ausschnitt. Relevante Arbeitsproben und Demos teilen wir auf Anfrage.
+
+</details>
 
 ## Kontakt
 
@@ -164,13 +242,34 @@ Du planst ein IT-, Hosting- oder Softwareprojekt? Schick uns am besten:
 
 Wir klären gemeinsam Anforderungen, technische Optionen und den passenden nächsten Schritt.
 
+- 📧 **E-Mail:** [support@xtream-itsolutions.com](mailto:support@xtream-itsolutions.com)
+- 📞 **Telefon:** [+49 2366 5830630](tel:+4923665830630) (für die schnelle erste Abstimmung)
+- 💬 **Discord:** [Server beitreten](https://discord.gg/xtream-itsolutions)
+- 📝 **Formular:** [Kontaktseite mit Termin- und Routenplanung](https://xtream-itsolutions.com/unternehmen/kontakt)
+
 <div align="center">
 
 <a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-007eff?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
 <a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/support%40xtream--itsolutions.com-000000?style=for-the-badge&logo=minutemailer&logoColor=7be4f7" alt="E-Mail schreiben" /></a>
 <a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord beitreten" /></a>
 
-<br><br>
+</div>
+
+## English summary
+
+Xtream-ITSolutions UG builds and operates modern, secure IT solutions — from managed infrastructure to custom software. We combine **software engineering, infrastructure and operations** with a focus on maintainability, clear communication and documented operations. Our default hosting region is **Frankfurt, Germany (GDPR-compliant)**. Working languages are **German and English**. The best way to start is a small, well-scoped first step: [contact us](https://xtream-itsolutions.com/unternehmen/kontakt).
+
+<div align="center">
+
+[Über uns](https://xtream-itsolutions.com/unternehmen/ueberuns) ·
+[Produkte](https://xtream-itsolutions.com/produkte) ·
+[Rechenzentrum](https://xtream-itsolutions.com/unternehmen/rechenzentrum) ·
+[Kontakt](https://xtream-itsolutions.com/unternehmen/kontakt) ·
+[Impressum](https://xtream-itsolutions.com/rechtliches/impressum) ·
+[Datenschutz](https://xtream-itsolutions.com/rechtliches/datenschutz) ·
+[AGB](https://xtream-itsolutions.com/rechtliches/agb)
+
+<br>
 
 <sub>© 2024–2026 Xtream-ITSolutions UG (haftungsbeschränkt) · Deutschland</sub>
 
