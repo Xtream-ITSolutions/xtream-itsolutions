@@ -50,7 +50,7 @@ def build_svg(repo_count, star_count, top_languages, updated):
   <text x="36" y="72" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#8b949e">Automatisch erzeugt — ohne externen Statistikdienst</text>
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="36" y="128" font-size="40" font-weight="bold" fill="#007eff">{repo_count}</text>
-    <text x="36" y="152" font-size="14" fill="#8b949e">ffentliche Repos</text>
+    <text x="36" y="152" font-size="14" fill="#8b949e">Öffentliche Repos</text>
     <text x="330" y="128" font-size="40" font-weight="bold" fill="#007eff">{star_count}</text>
     <text x="330" y="152" font-size="14" fill="#8b949e">Stars gesamt</text>
     <text x="560" y="128" font-size="20" font-weight="bold" fill="#ffffff">{langs}</text>
