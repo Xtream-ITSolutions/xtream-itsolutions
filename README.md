@@ -33,8 +33,30 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 
 ## Inhaltsübersicht
 
+> GitHub-READMEs erlauben kein JavaScript und kein eigenes CSS — echte Tabs mit umschaltbaren Inhalten sind daher technisch nicht möglich. Als Ersatz gibt es hier eine Tab-Navigation aus anklickbaren Badges, die direkt zum jeweiligen Abschnitt springt.
+
+<div align="center">
+
+<a href="#was-wir-machen"><img src="https://img.shields.io/badge/Was_wir_machen-007eff?style=for-the-badge" alt="Was wir machen" /></a>
+<a href="#warum-xtream-itsolutions"><img src="https://img.shields.io/badge/Warum_wir-000000?style=for-the-badge" alt="Warum Xtream-ITSolutions" /></a>
+<a href="#kennzahlen"><img src="https://img.shields.io/badge/Kennzahlen-000000?style=for-the-badge" alt="Kennzahlen" /></a>
+<a href="#leistungsbereiche"><img src="https://img.shields.io/badge/Leistungen-000000?style=for-the-badge" alt="Leistungsbereiche" /></a>
+<a href="#technologien"><img src="https://img.shields.io/badge/Technologien-000000?style=for-the-badge" alt="Technologien" /></a>
+<a href="#wie-wir-arbeiten"><img src="https://img.shields.io/badge/Ablauf-000000?style=for-the-badge" alt="Wie wir arbeiten" /></a>
+<a href="#beispielhafte-anwendungsfälle"><img src="https://img.shields.io/badge/Beispiele-000000?style=for-the-badge" alt="Beispielhafte Anwendungsfälle" /></a>
+<a href="#aktuelle-schwerpunkte"><img src="https://img.shields.io/badge/Fokus-000000?style=for-the-badge" alt="Aktuelle Schwerpunkte" /></a>
+<a href="#beitragsaktivität"><img src="https://img.shields.io/badge/Aktivität-000000?style=for-the-badge" alt="Beitragsaktivität" /></a>
+<a href="#häufige-fragen"><img src="https://img.shields.io/badge/FAQ-000000?style=for-the-badge" alt="Häufige Fragen" /></a>
+<a href="#kontakt"><img src="https://img.shields.io/badge/Kontakt-007eff?style=for-the-badge" alt="Kontakt" /></a>
+
+</div>
+
+<details>
+<summary><strong>Alle Abschnitte im Überblick</strong></summary>
+
 - [Was wir machen](#was-wir-machen)
 - [Warum Xtream-ITSolutions](#warum-xtream-itsolutions)
+- [Kennzahlen](#kennzahlen)
 - [Leistungsbereiche](#leistungsbereiche)
 - [Technische Schwerpunkte](#technische-schwerpunkte)
 - [Für wen wir arbeiten](#für-wen-wir-arbeiten)
@@ -47,6 +69,8 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 - [Häufige Fragen](#häufige-fragen)
 - [Kontakt](#kontakt)
 - [English summary](#english-summary)
+
+</details>
 
 ## Was wir machen
 
@@ -62,6 +86,33 @@ Wir verbinden **Softwareentwicklung, Infrastruktur und Betrieb**. Dadurch werden
 | **📖 Wartbar statt schnell zusammengebaut** | Saubere Architektur, Dokumentation und reproduzierbare Deployments — auch in einem Jahr noch verständlich. |
 | **🧑‍💻 Direkter Draht** | Feste Ansprechpartner, E-Mail mit Verlauf, Telefon für Eiliges und Discord für den laufenden Austausch. |
 | **🇩🇪 Betrieb in Deutschland** | Systeme in Frankfurt am Main, Verarbeitung nach DSGVO mit AV-Vertrag, Vertragspartner in Deutschland. |
+
+## Kennzahlen
+
+<img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/profile-stats.svg" alt="GitHub-Kennzahlen: öffentliche Repositories, Stars und Top-Sprachen" />
+
+Die Grafik wird täglich per GitHub Action aus unseren öffentlichen Repositories erzeugt und liegt als eigene Datei im `output`-Branch — ganz ohne externen Statistikdienst.
+
+Stand der Unternehmenskennzahlen: siehe [Über uns](https://xtream-itsolutions.com/unternehmen/ueberuns) und jeweilige Produktseite — konkrete Verfügbarkeiten und Reaktionszeiten gelten je vereinbartem Leistungsumfang beziehungsweise SLA.
+
+| Kennzahl | Wert |
+|---|---|
+| **👥 Kunden** | 500+ |
+| **📡 Verfügbarkeit** | 99,9 % (Zielwert Plattform) |
+| **⚡ Erstreaktion** | < 15 Min. |
+| **🕓 Betrieb** | 24/7 möglich (je nach Paket) |
+| **📍 Rechenzentrum** | Frankfurt am Main, DE-CIX-Anbindung |
+
+<div align="center">
+
+[![Follower](https://img.shields.io/github/followers/Xtream-ITSolutions?style=flat-square&logo=github&label=Follower)](https://github.com/Xtream-ITSolutions?tab=followers)
+[![Letzter Commit](https://img.shields.io/github/last-commit/Xtream-ITSolutions/xtream-itsolutions?style=flat-square&logo=git&label=Letzter_Commit)](https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/)
+[![Snake](https://github.com/Xtream-ITSolutions/xtream-itsolutions/actions/workflows/snake.yml/badge.svg)](https://github.com/Xtream-ITSolutions/xtream-itsolutions/actions/workflows/snake.yml)
+[![Copyright-Jahr](https://github.com/Xtream-ITSolutions/xtream-itsolutions/actions/workflows/update-year.yml/badge.svg)](https://github.com/Xtream-ITSolutions/xtream-itsolutions/actions/workflows/update-year.yml)
+
+</div>
+
+> Hinweis: Wir nutzen bewusst nur Shields.io-Badges, native GitHub-Workflow-Badges und eigene per Action erzeugte Grafiken (Snake). Externe Statistik-Kartendienste (z. B. github-readme-stats) lassen wir weg, damit das Profil auch bei Rate-Limits und Ausfällen fremder Bilddienste vollständig lesbar bleibt.
 
 ## Leistungsbereiche
 
@@ -192,7 +243,7 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
   <img alt="GitHub Beitrags-Snake-Animation" src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/output/github-contribution-grid-snake.svg" />
 </picture>
 
-Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du direkt auf GitHub. Wir verzichten bewusst auf externe Statistik-Karten, damit das Profil auch bei Rate-Limits und Ausfällen externer Bilddienste vollständig nutzbar bleibt.
+Die Animation wird täglich per GitHub Action aus deinen Beiträgen neu erzeugt und liegt als eigene Grafik im `output`-Branch — ganz ohne externen Bilddienst. Unsere aktuelle Arbeit, Repositories und technischen Änderungen findest du direkt auf GitHub.
 
 <div align="center">
 
