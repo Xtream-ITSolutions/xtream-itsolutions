@@ -12,11 +12,11 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 
 <br>
 
-<a href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-007eff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Produkte-007eff?style=for-the-badge&logo=bookstack&logoColor=white" alt="Produkte" /></a>
-<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=handshake&logoColor=white" alt="Kontakt" /></a>
-<a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://www.linkedin.com/company/xtream-itsolutions"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com"><img src="https://img.shields.io/badge/Website-007eff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Produkte-007eff?style=for-the-badge&logo=bookstack&logoColor=white" alt="Produkte" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=handshake&logoColor=white" alt="Kontakt" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/xtream-itsolutions"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/E--Mail-000000?style=for-the-badge&logo=maildotru&logoColor=7be4f7" alt="E-Mail" /></a>
 
 <br><br>
@@ -44,6 +44,7 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 <a href="#technologien"><img src="https://img.shields.io/badge/Technologien-000000?style=for-the-badge" alt="Technologien" /></a>
 <a href="#wie-wir-arbeiten"><img src="https://img.shields.io/badge/Ablauf-000000?style=for-the-badge" alt="Wie wir arbeiten" /></a>
 <a href="#beispielhafte-anwendungsfälle"><img src="https://img.shields.io/badge/Beispiele-000000?style=for-the-badge" alt="Beispielhafte Anwendungsfälle" /></a>
+<a href="#öffentliche-repositories"><img src="https://img.shields.io/badge/Repos-000000?style=for-the-badge" alt="Öffentliche Repositories" /></a>
 <a href="#aktuelle-schwerpunkte"><img src="https://img.shields.io/badge/Fokus-000000?style=for-the-badge" alt="Aktuelle Schwerpunkte" /></a>
 <a href="#beitragsaktivität"><img src="https://img.shields.io/badge/Aktivität-000000?style=for-the-badge" alt="Beitragsaktivität" /></a>
 <a href="#häufige-fragen"><img src="https://img.shields.io/badge/FAQ-000000?style=for-the-badge" alt="Häufige Fragen" /></a>
@@ -63,6 +64,7 @@ Wir unterstützen Unternehmen, Start-ups und Entwickler beim Aufbau und Betrieb 
 - [Technologien](#technologien)
 - [Wie wir arbeiten](#wie-wir-arbeiten)
 - [Beispielhafte Anwendungsfälle](#beispielhafte-anwendungsfälle)
+- [Öffentliche Repositories](#öffentliche-repositories)
 - [Aktuelle Schwerpunkte](#aktuelle-schwerpunkte)
 - [Open Source & Mitarbeit](#open-source--mitarbeit)
 - [Beitragsaktivität](#beitragsaktivität)
@@ -214,8 +216,8 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 
 <div align="center">
 
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-007eff?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
-<a href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=7be4f7" alt="Services" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Öffentliche_Repositories-ansehen-007eff?style=for-the-badge&logo=github&logoColor=white" alt="Öffentliche Repositories" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/produkte"><img src="https://img.shields.io/badge/Services-entdecken-000000?style=for-the-badge&logo=bookstack&logoColor=7be4f7" alt="Services" /></a>
 
 </div>
 
@@ -235,6 +237,15 @@ Für passende Anfragen zeigen wir gerne relevante Arbeitsproben, technische Konz
 - Du möchtest etwas beitragen? Lies vorher kurz [CONTRIBUTING.md](CONTRIBUTING.md).
 - Sicherheitslücke vermutet? Bitte **nicht** öffentlich melden, sondern vertraulich per E-Mail gemäß [SECURITY.md](SECURITY.md).
 
+## Öffentliche Repositories
+
+| Repository | Hauptsprache | Stars |
+|---|---|---|
+| <a target="_blank" rel="noopener noreferrer" href="https://github.com/Xtream-ITSolutions/xitphoneboard">xitphoneboard</a> | JavaScript | 0 |
+| <a target="_blank" rel="noopener noreferrer" href="https://github.com/Xtream-ITSolutions/xtream-itsolutions">xtream-itsolutions</a> | – | 0 |
+
+`xtream-itsolutions` enthält diese Profilseite. Viele Kunden- und Infrastrukturprojekte bleiben aus Sicherheits- und Vertraulichkeitsgründen privat — die Tabelle zeigt den aktuellen öffentlichen Stand.
+
 ## Beitragsaktivität
 
 <picture>
@@ -247,8 +258,8 @@ Die Animation wird täglich per GitHub Action aus deinen Beiträgen neu erzeugt 
 
 <div align="center">
 
-<a href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-007eff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
-<a href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-000000?style=for-the-badge&logo=git&logoColor=7be4f7" alt="Commit-Historie ansehen" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Xtream-ITSolutions?tab=repositories"><img src="https://img.shields.io/badge/Repositories-auf_GitHub_ansehen-007eff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories auf GitHub ansehen" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Xtream-ITSolutions/xtream-itsolutions/commits/main/"><img src="https://img.shields.io/badge/Änderungen-Commit--Historie-000000?style=for-the-badge&logo=git&logoColor=7be4f7" alt="Commit-Historie ansehen" /></a>
 
 </div>
 
@@ -300,9 +311,9 @@ Wir klären gemeinsam Anforderungen, technische Optionen und den passenden näch
 
 <div align="center">
 
-<a href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-007eff?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/unternehmen/kontakt"><img src="https://img.shields.io/badge/Projekt_besprechen-007eff?style=for-the-badge&logo=handshake&logoColor=white" alt="Projekt besprechen" /></a>
 <a href="mailto:support@xtream-itsolutions.com"><img src="https://img.shields.io/badge/support%40xtream--itsolutions.com-000000?style=for-the-badge&logo=minutemailer&logoColor=7be4f7" alt="E-Mail schreiben" /></a>
-<a href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord beitreten" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/xtream-itsolutions"><img src="https://img.shields.io/badge/Discord_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord beitreten" /></a>
 
 </div>
 
@@ -312,13 +323,13 @@ Xtream-ITSolutions UG builds and operates modern, secure IT solutions — from m
 
 <div align="center">
 
-[Über uns](https://xtream-itsolutions.com/unternehmen/ueberuns) ·
-[Produkte](https://xtream-itsolutions.com/produkte) ·
-[Rechenzentrum](https://xtream-itsolutions.com/unternehmen/rechenzentrum) ·
-[Kontakt](https://xtream-itsolutions.com/unternehmen/kontakt) ·
-[Impressum](https://xtream-itsolutions.com/rechtliches/impressum) ·
-[Datenschutz](https://xtream-itsolutions.com/rechtliches/datenschutz) ·
-[AGB](https://xtream-itsolutions.com/rechtliches/agb)
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/unternehmen/ueberuns">Über uns</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/produkte">Produkte</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/unternehmen/rechenzentrum">Rechenzentrum</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/unternehmen/kontakt">Kontakt</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/rechtliches/impressum">Impressum</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/rechtliches/datenschutz">Datenschutz</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com/rechtliches/agb">AGB</a>
 
 <br>
 
