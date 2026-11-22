@@ -1,6 +1,6 @@
-"""Erzeugt eine ausfallsichere GitHub-Kennzahlen-Grafik (SVG) fuer das Org-Profil.
+"""Erzeugt eine ausfallsichere GitHub-Kennzahlen-Grafik (SVG) fuer das Profil.
 
-Liest die oeffentlichen Repositories der Organisation ueber die GitHub-REST-API
+Liest die oeffentlichen Repositories des Kontos ueber die GitHub-REST-API
 und schreibt `profile-stats.svg`. Keine externen Bilddienste noetig — die Datei
 wird per GitHub Action in den `output`-Branch gelegt und im README eingebunden.
 
@@ -27,11 +27,12 @@ def api_get(url, token):
         return json.load(resp)
 
 
-def fetch_public_repos(org, token):
+def fetch_public_repos(account, token):
     repos = []
     page = 1
     while True:
-        batch = api_get(f"{API}/orgs/{org}/repos?per_page=100&type=public&page={page}", token)
+        # /users/... funktioniert fuer Benutzer- und Organisationskonten.
+        batch = api_get(f"{API}/users/{account}/repos?per_page=100&type=public&page={page}", token)
         if not batch:
             break
         repos.extend(batch)
@@ -62,7 +63,7 @@ def build_svg(repo_count, star_count, top_languages, updated):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--org", default="Xtream-ITSolutions")
+    parser.add_argument("--org", default="Xtream-ITSolutions", help="Benutzer- oder Org-Name")
     parser.add_argument("--out", default="profile-stats.svg")
     args = parser.parse_args()
 

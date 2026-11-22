@@ -27,5 +27,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          # Historie behalten, damit die Profil-Statistiken (profile-stats.svg)
+          # im selben Branch nicht ueberschrieben werden.
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
