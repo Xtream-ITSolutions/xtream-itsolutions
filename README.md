@@ -1,6 +1,6 @@
 <div align="center">
 
-<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com"><img src="https://raw.githubusercontent.com/Xtream-ITSolutions/xtream-itsolutions/main/assets/logo.png" alt="Xtream-ITSolutions Logo" width="220" /></a>
+<a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com"><img src="https://cdn.xtream-itsolutions.com/r/UWOU7I" alt="Xtream-ITSolutions Logo" width="220" /></a>
 
 # Xtream-ITSolutions
 
