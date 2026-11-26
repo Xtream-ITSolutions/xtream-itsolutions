@@ -2,8 +2,6 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://xtream-itsolutions.com"><img src="https://cdn.xtream-itsolutions.com/r/UWOU7I" alt="Xtream-ITSolutions Logo" width="220" /></a>
 
-<sub>Das Logo wird über unser CDN ausgeliefert: <a target="_blank" rel="noopener noreferrer" href="https://cdn.xtream-itsolutions.com/r/UWOU7I">cdn.xtream-itsolutions.com/r/UWOU7I</a></sub>
-
 # Xtream-ITSolutions
 
 ### Managed Infrastructure · Cloud · Software Engineering
